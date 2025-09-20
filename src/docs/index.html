@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>打IBM</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-dark: #0d0208; --primary-dark: #141414; --font-glow: #00ff00;
+            --accent-glitch1: #ff00ff; --accent-glitch2: #00ffff; --font-mono: 'Roboto Mono', monospace;
+            --font-jp: 'Noto Sans JP', sans-serif; --rank-top: #ffc107; --rank-advanced: #10b981;
+            --rank-intermediate: #3b82f6; --rank-beginner: #6b7280;
+        }
+        body { 
+            font-family: var(--font-jp); background-color: var(--bg-dark); color: var(--font-glow);
+            text-align: center; padding-top: 20px; display: flex; flex-direction: column; align-items: center;
+            background-image: linear-gradient(rgba(255,255,255,0.05) 2px, transparent 2px);
+            background-size: 100% 4px;
+        }
+        .title-container { margin-bottom: 20px; position: relative; }
+        .glitch-wrapper { font-family: var(--font-jp); font-size: 2.8em; font-weight: 700; }
+        .glitch {
+            position: relative; color: var(--font-glow); letter-spacing: 2px;
+            text-shadow: 0 0 5px var(--font-glow); animation: glitch-skew 1s infinite linear alternate-reverse;
+        }
+        .glitch::before, .glitch::after {
+            content: attr(data-text); position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            background: var(--bg-dark); overflow: hidden;
+        }
+        .glitch::before { left: 2px; text-shadow: -2px 0 var(--accent-glitch1); animation: glitch-anim1 2s infinite linear alternate-reverse; }
+        .glitch::after { left: -2px; text-shadow: -2px 0 var(--accent-glitch2); animation: glitch-anim2 3s infinite linear alternate-reverse; }
+        @keyframes glitch-anim1 { 0% { clip-path: inset(5% 0 90% 0); } 100% { clip-path: inset(70% 0 10% 0); } }
+        @keyframes glitch-anim2 { 0% { clip-path: inset(80% 0 5% 0); } 100% { clip-path: inset(10% 0 85% 0); } }
+        @keyframes glitch-skew { 0% { transform: skew(0deg); } 100% { transform: skew(1deg); } }
+
+        .subtitle { font-family: var(--font-mono); color: var(--font-glow); opacity: 0.7; font-size: 0.9em; margin: 0; letter-spacing: 1px; }
+        #game-container { 
+            width: 850px; margin: 10px auto; padding: 30px; border: 1px solid var(--font-glow);
+            background-color: var(--primary-dark); box-shadow: 0 0 20px var(--accent-glitch1), inset 0 0 15px rgba(0,255,0,0.3);
+            display: flex; align-items: center; justify-content: center; min-height: 650px;
+        }
+        .screen { display: flex; flex-direction: column; align-items: center; width: 100%; }
+        #question-display { 
+            width: 100%; margin-bottom: 25px; background-color: rgba(0,0,0,0.5); padding: 20px; 
+            min-height: 130px; display: flex; flex-direction: column;
+            justify-content: center; border: 1px solid var(--font-glow);
+        }
+        #command-display {
+            font-family: var(--font-mono); font-size: 2.8em; font-weight: 700; color: #fff;
+            letter-spacing: 4px; margin-bottom: 15px; min-height: 50px; text-shadow: 0 0 3px #fff;
+        }
+        #english-menu { font-family: var(--font-mono); font-size: 1.4em; color: #fff; }
+        #japanese-menu { font-size: 1.1em; color: var(--font-glow); margin-top: 8px; }
+        #command-input { 
+            width: 95%; padding: 15px; font-size: 24px; font-family: var(--font-mono); text-align: center; 
+            border: 1px solid var(--font-glow); background-color: #000;
+            color: #fff; ime-mode: disabled; text-transform: uppercase; transition: all 0.2s ease;
+        }
+        #command-input:focus { outline: none; box-shadow: 0 0 15px var(--font-glow); }
+        .info-grid { 
+            width: 100%; display: grid; grid-template-columns: repeat(3, 1fr); justify-items: center;
+            font-size: 24px; margin-top: 25px; font-family: var(--font-mono);
+        }
+        .button {
+            margin: 10px; padding: 12px 25px; font-size: 18px; font-family: var(--font-jp); font-weight: 700;
+            cursor: pointer; border: 1px solid var(--font-glow); background-color: transparent;
+            color: var(--font-glow); transition: all 0.2s ease; text-shadow: 0 0 5px var(--font-glow);
+        }
+        .button:hover { background-color: var(--font-glow); color: #000; text-shadow: none; }
+        .countdown { font-family: var(--font-mono); font-size: 6em; font-weight: 700; color: #fff; }
+        .countdown-note { font-size: 1.2em; color: var(--accent-glitch1); margin-top: 10px; }
+        #result-screen h2 { font-size: 2.5em; margin-bottom: 10px; }
+        #result-rank { font-size: 4.5em; font-weight: 700; margin-bottom: 20px; text-shadow: 0 0 15px; }
+        #result-details { font-size: 1.5em; font-family: var(--font-mono); }
+        #version-info { position: fixed; bottom: 10px; right: 15px; font-family: var(--font-mono); font-size: 0.8em; color: #444; }
+        .ime-note {
+            margin-top: 30px; padding: 10px; border: 1px dashed var(--accent-glitch1);
+            color: var(--accent-glitch1); font-size: 0.9em;
+        }
+        .shake { animation: shake 0.5s; }
+        @keyframes shake {
+            10%, 90% { transform: translate3d(-1px, 0, 0); } 20%, 80% { transform: translate3d(2px, 0, 0); }
+            30%, 50%, 70% { transform: translate3d(-4px, 0, 0); } 40%, 60% { transform: translate3d(4px, 0, 0); }
+        }
+    </style>
+</head>
+<body>
+    <div class="title-container">
+        <p class="subtitle">IBM Control Language Command typing game</p>
+        <div class="glitch-wrapper">
+            <h1 class="glitch" data-text="～鬼畜！打IBM～">～鬼畜！打IBM～</h1>
+        </div>
+    </div>
+    <div id="game-container">
+        <div id="difficulty-selector" class="screen">
+            <h2>難易度を選択してください</h2>
+            <div>
+                <button class="button" id="beginner-btn">初級 (コマンド表示)</button>
+                <button class="button" id="intermediate-btn">中級 (コマンド非表示)</button>
+                <button class="button" id="advanced-btn">上級 (日本語のみ)</button>
+            </div>
+            <p class="ime-note">
+                <strong>【重要】</strong>プレイする前に、キーボードの入力モードを<br><strong>「半角英数」</strong>に切り替えてください。
+            </p>
+        </div>
+        <div id="game-area" class="screen" style="display: none;">
+            <div id="question-display">
+                <div id="command-display"></div>
+                <div id="english-menu"></div>
+                <div id="japanese-menu"></div>
+            </div>
+            <input type="text" id="command-input" placeholder="_" disabled autocapitalize="off" autocomplete="off">
+            <div class="info-grid">
+                <div>Time: <span id="time-limit">45</span></div>
+                <div>Score: <span id="score">0</span></div>
+                <div>Miss: <span id="miss-count">0</span></div>
+            </div>
+            <div class="info-grid">
+                <div>Question Time: <span id="question-time-limit">7</span></div>
+            </div>
+            <button class="button" id="reset-button" style="margin-top: 20px;">Reset Game</button>
+        </div>
+        <div id="result-screen" class="screen" style="display: none;">
+            <h2>RESULT</h2>
+            <div id="result-rank"></div>
+            <div id="result-details">
+                <p>Score: <span id="result-score"></span></p>
+                <p>Miss: <span id="result-miss"></span></p>
+            </div>
+            <button class="button" id="play-again-btn" style="margin-top: 20px;">もう一度プレイする</button>
+        </div>
+    </div>
+    <div id="version-info">IBM i ver 7.6.0</div>
+
+    <script>
+        const elements = {
+            difficultySelector: document.getElementById('difficulty-selector'), gameArea: document.getElementById('game-area'),
+            resultScreen: document.getElementById('result-screen'), beginnerBtn: document.getElementById('beginner-btn'),
+            intermediateBtn: document.getElementById('intermediate-btn'), advancedBtn: document.getElementById('advanced-btn'),
+            commandDisplay: document.getElementById('command-display'), englishMenu: document.getElementById('english-menu'),
+            japaneseMenu: document.getElementById('japanese-menu'), commandInput: document.getElementById('command-input'),
+            timeLimit: document.getElementById('time-limit'), score: document.getElementById('score'),
+            missCount: document.getElementById('miss-count'), questionTimeLimit: document.getElementById('question-time-limit'),
+            resetButton: document.getElementById('reset-button'), resultRank: document.getElementById('result-rank'),
+            resultScore: document.getElementById('result-score'), resultMiss: document.getElementById('result-miss'),
+            playAgainBtn: document.getElementById('play-again-btn')
+        };
+
+        const gameState = {
+            allQuestions: [], score: 0, missCount: 0, currentQuestion: null, gameTimerId: null, questionTimerId: null,
+            gameTimeLeft: 45, questionTimeLeft: 7, isGameActive: false, typedIndex: 0,
+            difficulty: 'beginner', scoreMultiplier: 1
+        };
+
+        // ★★★ 公開版専用ロジック: 最初にCSVを読み込んで全問題をメモリに保持 ★★★
+        async function loadQuestions() {
+            try {
+                const response = await fetch('commands.csv');
+                const csvData = await response.text();
+                gameState.allQuestions = csvData.split('\n').filter(line => line).map(line => {
+                    const parts = line.split(',');
+                    return { command: parts[0], englishMenu: parts[1], japaneseMenu: parts[2] };
+                });
+            } catch (error) {
+                console.error("CSVの読み込みに失敗しました:", error);
+                elements.difficultySelector.innerHTML = "<h2>エラー: 問題ファイルの読み込みに失敗しました。</h2>";
+            }
+        }
+
+        elements.beginnerBtn.addEventListener('click', () => selectDifficulty('beginner', 1));
+        elements.intermediateBtn.addEventListener('click', () => selectDifficulty('intermediate', 3));
+        elements.advancedBtn.addEventListener('click', () => selectDifficulty('advanced', 5));
+        elements.resetButton.addEventListener('click', () => endGame());
+        elements.playAgainBtn.addEventListener('click', () => {
+            elements.resultScreen.style.display = 'none';
+            elements.difficultySelector.style.display = 'flex';
+        });
+        
+        elements.commandInput.addEventListener('keydown', handleKeyDown);
+        elements.commandInput.addEventListener('input', (e) => {
+            const input = e.target;
+            const correctValue = input.value.substring(0, gameState.typedIndex);
+            if (input.value !== correctValue) {
+                input.value = correctValue;
+            }
+        });
+
+        function selectDifficulty(level, multiplier) {
+            gameState.difficulty = level;
+            gameState.scoreMultiplier = multiplier;
+            elements.difficultySelector.style.display = 'none';
+            elements.gameArea.style.display = 'flex';
+            startGame();
+        }
+
+        function startGame() {
+            elements.resetButton.disabled = true;
+            elements.commandDisplay.textContent = '';
+            elements.japaneseMenu.textContent = '';
+            
+            let count = 3;
+            const countdown = () => {
+                if (count > 0) {
+                    elements.englishMenu.innerHTML = `<div class="countdown">${count}</div><div class="countdown-note">半角英数を確認！</div>`;
+                    count--;
+                    setTimeout(countdown, 1000);
+                } else {
+                    elements.englishMenu.innerHTML = `<div class="countdown">GO!</div>`;
+                    setTimeout(startActualGame, 500);
+                }
+            };
+            countdown();
+        }
+
+        function startActualGame() {
+            gameState.isGameActive = true;
+            gameState.score = 0; gameState.missCount = 0; gameState.gameTimeLeft = 45;
+            gameState.typedIndex = 0;
+            updateDisplay();
+
+            elements.commandInput.disabled = false;
+            elements.commandInput.value = '';
+            elements.commandInput.focus();
+            elements.resetButton.disabled = false;
+
+            gameState.gameTimerId = setInterval(updateGameTimer, 1000);
+            fetchQuestion();
+        }
+
+        function fetchQuestion() {
+            if (!gameState.isGameActive) return;
+            clearInterval(gameState.questionTimerId);
+            gameState.questionTimeLeft = 7; gameState.typedIndex = 0;
+            updateDisplay();
+
+            if (gameState.allQuestions.length === 0) {
+                elements.englishMenu.textContent = "問題がありません";
+                return;
+            }
+            
+            const randomIndex = Math.floor(Math.random() * gameState.allQuestions.length);
+            gameState.currentQuestion = gameState.allQuestions[randomIndex];
+            
+            elements.commandDisplay.style.display = 'block';
+            elements.englishMenu.style.display = 'block';
+            if (gameState.difficulty === 'beginner') {
+                elements.commandDisplay.textContent = gameState.currentQuestion.command;
+            } else if (gameState.difficulty === 'intermediate') {
+                elements.commandDisplay.textContent = '_'.repeat(gameState.currentQuestion.command.length);
+            } else {
+                elements.commandDisplay.style.display = 'none';
+                elements.englishMenu.style.display = 'none';
+            }
+            
+            elements.englishMenu.textContent = gameState.currentQuestion.englishMenu;
+            elements.japaneseMenu.textContent = gameState.currentQuestion.japaneseMenu;
+            elements.commandInput.value = '';
+            elements.commandInput.focus();
+            gameState.questionTimerId = setInterval(updateQuestionTimer, 1000);
+        }
+
+        function handleKeyDown(e) {
+            if (!gameState.isGameActive || !gameState.currentQuestion) return;
+            if (e.key === 'Backspace' || e.key.length > 1 || e.ctrlKey || e.altKey || e.metaKey) {
+                e.preventDefault(); return;
+            }
+            if (e.key === 'Enter' || e.key === 'Process') {
+                e.preventDefault(); return;
+            }
+            if (!e.key.match(/^[a-zA-Z0-9]$/)) {
+                return;
+            }
+            e.preventDefault();
+
+            const correctCommand = gameState.currentQuestion.command.toUpperCase();
+            const typedChar = e.key.toUpperCase();
+
+            if (typedChar === correctCommand[gameState.typedIndex]) {
+                elements.commandInput.value += typedChar;
+                gameState.typedIndex++;
+                flashFeedback(true);
+                if (gameState.typedIndex === correctCommand.length) {
+                    const basePoints = (correctCommand.length * 10) + (gameState.questionTimeLeft * 5);
+                    gameState.score += basePoints * gameState.scoreMultiplier;
+                    fetchQuestion();
+                }
+            } else {
+                gameState.missCount++;
+                gameState.score = Math.max(0, gameState.score - 10);
+                flashFeedback(false);
+            }
+            updateDisplay();
+        }
+        
+        function flashFeedback(isCorrect) {
+            const color = isCorrect ? 'rgba(0, 255, 0, 0.2)' : 'rgba(255, 0, 255, 0.3)';
+            elements.commandInput.style.backgroundColor = color;
+            elements.commandInput.classList.remove('shake');
+            if (!isCorrect) {
+                void elements.commandInput.offsetWidth;
+                elements.commandInput.classList.add('shake');
+            }
+            setTimeout(() => { 
+                elements.commandInput.style.backgroundColor = '#000';
+                elements.commandInput.classList.remove('shake');
+            }, 150);
+        }
+
+        function updateGameTimer() {
+            gameState.gameTimeLeft--;
+            if (gameState.gameTimeLeft <= 0) endGame();
+            updateDisplay();
+        }
+
+        function updateQuestionTimer() {
+            gameState.questionTimeLeft--;
+            if (gameState.questionTimeLeft < 0) {
+                gameState.score = 0;
+                fetchQuestion();
+            }
+            updateDisplay();
+        }
+
+        function updateDisplay() {
+            elements.score.textContent = gameState.score;
+            elements.timeLimit.textContent = gameState.gameTimeLeft;
+            elements.questionTimeLimit.textContent = gameState.questionTimeLeft;
+            elements.missCount.textContent = gameState.missCount;
+        }
+
+        function endGame() {
+            gameState.isGameActive = false;
+            clearInterval(gameState.gameTimerId);
+            clearInterval(gameState.questionTimerId);
+
+            const finalScore = gameState.score;
+            const { rank, color } = getRank(finalScore);
+
+            elements.resultRank.textContent = rank;
+            elements.resultRank.style.color = color;
+            elements.resultScore.textContent = finalScore;
+            elements.resultMiss.textContent = gameState.missCount;
+
+            elements.gameArea.style.display = 'none';
+            elements.resultScreen.style.display = 'flex';
+        }
+
+        function getRank(score) {
+            if (score >= 15000) return { rank: 'TOPSJAPAN級', color: 'var(--rank-top)' };
+            if (score >= 7000) return { rank: '上級者', color: 'var(--rank-advanced)' };
+            if (score >= 2000) return { rank: '中級者', color: 'var(--rank-intermediate)' };
+            return { rank: '初心者', color: 'var(--rank-beginner)' };
+        }
+
+        // 最初に問題をロードする
+        loadQuestions();
+    </script>
+</body>
+</html>

@@ -1,0 +1,2003 @@
+﻿ADDACC,Add Access Code,アクセスコードを追加する
+ADDAJE,Add Autostart Job Entry,自動開始ジョブ項目を追加する
+ADDALRACNE,Add Alert Action Entry,アラート処置項目を追加する
+ADDALRD,Add Alert Description,アラート記述を追加する
+ADDALRSLTE,Add Alert Selection Entry,アラート選択項目を追加する
+ADDASPCPYD,Add ASP Copy Description,ASPコピー記述を追加する
+ADDAUTLE,Add Authorization List Entry,権限リスト項目を追加する
+ADDBKP,Add Breakpoint,ブレークポイントを追加する
+ADDBNDDIRE,Add Binding Directory Entry,バインド・ディレクトリー項目を追加する
+ADDCADMRE,Add Cluster Administrative Domain Managed Resource Entry,クラスター管理ドメイン管理リソース項目を追加する
+ADDCADNODE,Add Cluster Administrative Domain Node Entry,クラスター管理ドメイン・ノード項目を追加する
+ADDCFGLE,Add Configuration List Entries,構成リスト項目を追加する
+ADDCKMKSFE,Add Crytographic Key Management Keystore File Entry,暗号鍵管理キーストア・ファイル項目を追加する
+ADDCLUMON,Add Cluster Monitor,クラスター・モニターを追加する
+ADDCLUNODE,Add Cluster Node Entry,クラスター・ノード項目を追加する
+ADDCMNE,Add Communications Entry,通信項目を追加する
+ADDCOMSNMP,Add Community for SNMP,SNMPコミュニティーを追加する
+ADDCRGDEVE,Add Cluster Resource Group Device Entry,CRG装置項目を追加する
+ADDCRGNODE,Add Cluster Resource Group Node Entry,CRGノード項目を追加する
+ADDDEVDMNE,Add Device Domain Entry,装置ドメイン項目を追加する
+ADDDIRE,Add Directory Entry,ディレクトリー項目を追加する
+ADDDIRINST,Add Directory Server Instance,ディレクトリー・サーバー・インスタンスを追加する
+ADDDIRSHD,Add Directory Shadow System,ディレクトリー・シャドー・システムを追加する
+ADDDLOAUT,Add Document Library Object Authority,文書ライブラリー・オブジェクト権限を追加する
+ADDDNSSIG,Add Domain Name System Signature,DNS署名を追加する
+ADDDOCOND,Add Document to OnDemand,OnDemandに文書を追加する
+ADDDPRREG,Add DataPropagator Registration,DataPropagator登録を追加する
+ADDDPRSUB,Add DataPropagator Subscription,DataPropagatorサブスクリプションを追加する
+ADDDPRSUBM,Add DataPropagator Subscription Member,DataPropagatorサブスクリプション・メンバーを追加する
+ADDDSTLE,Add Distribution List Entry,配布リスト項目を追加する
+ADDDSTQ,Add Distribution Queue,配布待ち行列を追加する
+ADDDSTRTE,Add Distribution Route,配布経路を追加する
+ADDDSTSYSN,Add Secondary System Name,2次システム名を追加する
+ADDDTADFN,Add Data Definition,データ定義を追加する
+ADDDWDFN,Add Disk Watcher Definition,ディスク監視機能定義を追加する
+ADDEMLCFGE,Add Configuration Entry,構成項目を追加する
+ADDENVVAR,Add Environment Variable,環境変数を追加する
+ADDEWCBCDE,Add Wireless Controller Barcode Entry,無線コントローラー・バーコード項目を追加する
+ADDEWCM,Add Wireless Controller Member,無線コントローラー・メンバーを追加する
+ADDEWCPTCE,Add Wireless Controller PTC Entry,無線コントローラーPTC項目を追加する
+ADDEWLM,Add Wireless Line Member,無線回線メンバーを追加する
+ADDEXITPGM,Add Exit Program,出口プログラムを追加する
+ADDFNTTBLE,Add Font Table Entry,フォント・テーブル項目を追加する
+ADDHACFGD,Add HA Configuration Description,HA構成記述を追加する
+ADDHAPCY,Add High Availability Policy,高可用性ポリシーを追加する
+ADDHDBDLFM,Add Host Database to DataLink File Manager,ホスト・データベースをDataLinkファイル・マネージャーに追加する
+ADDICFDEVE,Add Intersystem Communications Function Device Entry,ICF装置項目を追加する
+ADDIMGCLGE,Add Image Catalog Entry,イメージ・カタログ項目を追加する
+ADDJOBJS,Add Job using Advanced Job Scheduler,AJSを使用してジョブを追加する
+ADDJOBQE,Add Job Queue Entry,ジョブ待ち行列項目を追加する
+ADDJOBSCDE,Add Job Schedule Entry,ジョブ・スケジュール項目を追加する
+ADDJWDFN,Add Job Watcher Definition,ジョブ監視機能定義を追加する
+ADDKRBKTE,Add Kerberos Keytab Entry,Kerberosキータブ項目を追加する
+ADDKRBTKT,Add Kerberos Ticket,Kerberosチケットを追加する
+ADDLANADPI,Add LAN Adapter Information,LANアダプター情報を追加する
+ADDLFM,Add Logical File Member,論理ファイル・メンバーを追加する
+ADDLIBLE,Add Library List Entry,ライブラリー・リスト項目を追加する
+ADDLICKEY,Add License Key Information,ライセンス・キー情報を追加する
+ADDLNK,Add Link,リンクを追加する
+ADDMEDBRM,Add Media to BRMS,BRMSに媒体を追加する
+ADDMEDIBRM,Add Media Information to BRMS,BRMSに媒体情報を追加する
+ADDMFS,Add Mounted File System,マウント・ファイル・システムを追加する
+ADDMLMBRM,Add Media Library Media to BRMS,BRMSに媒体ライブラリー媒体を追加する
+ADDMSGD,Add Message Description,メッセージ記述を追加する
+ADDMSTPART,Add Master Key Part,マスター・キーの一部を追加する
+ADDNCK,Add Nickname,ニックネームを追加する
+ADDNETJOBE,Add Network Job Entry,ネットワーク・ジョブ項目を追加する
+ADDNETTBLE,Add Network Table Entry,ネットワーク・テーブル項目を追加する
+ADDNODLE,Add Node List Entry,ノード・リスト項目を追加する
+ADDNWSSTGL,Add Server Storage Link,サーバー記憶域リンクを追加する
+ADDOPTCTG,Add Optical Cartridge,光ディスク・カートリッジを追加する
+ADDOPTSVR,Add Optical Server,光ディスク・サーバーを追加する
+ADDOSPFARA,Add OSPF Area,OSPFエリアを追加する
+ADDOSPFIFC,Add OSPF Interface,OSPFインターフェースを追加する
+ADDOSPFLNK,Add OSPF Virtual Link,OSPF仮想リンクを追加する
+ADDOSPFRNG,Add OSPF Range,OSPF範囲を追加する
+ADDPCLTBLE,Add Protocol Table Entry,プロトコル・テーブル項目を追加する
+ADDPEXDFN,Add Performance Explorer Definition,PEX定義を追加する
+ADDPEXFTR,Add Performance Explorer Filter,PEXフィルターを追加する
+ADDPFCST,Add Physical File Constraint,物理ファイル制約を追加する
+ADDPFM,Add Physical File Member,物理ファイル・メンバーを追加する
+ADDPFTRG,Add Physical File Trigger,物理ファイル・トリガーを追加する
+ADDPFVLM,Add Physical File Variable Length Member,物理ファイル可変長メンバーを追加する
+ADDPFXDLFM,Add Prefix to DataLink File Manager,DataLinkファイル・マネージャーに接頭部を追加する
+ADDPGM,Add Program,プログラムを追加する (デバッグ用)
+ADDPJE,Add Prestart Job Entry,事前開始ジョブ項目を追加する
+ADDPRBACNE,Add Problem Action Entry,問題処置項目を追加する
+ADDPRBSLTE,Add Problem Selection Entry,問題選択項目を追加する
+ADDPRDLICI,Add License Information,ライセンス情報を追加する
+ADDRDBDIRE,Add Relational Database Directory Entry,RDBディレクトリー項目を追加する
+ADDREXBUF,Add REXX Buffer,REXXバッファーを追加する
+ADDRIPACP,Add Routing Information Protocol Accepted Route,RIP承認経路を追加する
+ADDRIPFLT,Add Routing Information Protocol Filter,RIPフィルターを追加する
+ADDRIPIFC,Add Routing Information Protocol Interface,RIPインターフェースを追加する
+ADDRIPIGN,Add Ignored Routing Information Protocol Neighbor,無視RIP隣接ルーターを追加する
+ADDRMTDFN,Add Remote Definition,リモート定義を追加する
+ADDRMTJRN,Add Remote Journal,リモート・ジャーナルを追加する
+ADDRPTOND,Add Report,レポートを追加する
+ADDRPYLE,Add Reply List Entry,応答リスト項目を追加する
+ADDRTGE,Add Routing Entry,ルーティング項目を追加する
+ADDSCHIDXE,Add Search Index Entry,検索索引項目を追加する
+ADDSDSTLE,Add SMTP Dist List Entry,SMTP配布リスト項目を追加する
+ADDSMTPLE,Add SMTP List Entry,SMTPリスト項目を追加する
+ADDSMTPRLE,Add Remote Login Entry,リモート・ログイン項目を追加する
+ADDSOCE,Add Sphere of Control Entry,制御範囲項目を追加する
+ADDSRVTBLE,Add Service Table Entry,サービス・テーブル項目を追加する
+ADDSVCCPYD,Add SAN Volume Controller ASP Copy Description,SVC ASPコピー記述を追加する
+ADDSVRAUTE,Add Server Authentication Entry,サーバー権限項目を追加する
+ADDTAPCTG,Add Tape Cartridge,磁気テープ・カートリッジを追加する
+ADDTCPHTE,Add TCP/IP Host Table Entry,TCP/IPホスト・テーブル項目を追加する
+ADDTCPIFC,Add TCP/IP Interface,TCP/IPインターフェースを追加する
+ADDTCPPORT,Add TCP/IP Port Restriction,TCP/IPポート制約を追加する
+ADDTCPRTE,Add TCP/IP Route,TCP/IP経路を追加する
+ADDTCPSVR,Add TCP/IP Server,TCP/IPサーバーを追加する
+ADDTRC,Add Trace,トレースを追加する
+ADDTRCFTR,Add Trace Filter,トレース・フィルターを追加する
+ADDUSRSMTP,Add User SMTP,ユーザーSMTPを追加する
+ADDUSRSNMP,Add User for SNMP,SNMPユーザーを追加する
+ADDVACSNMP,Add VACM for SNMP,SNMPのVACMを追加する
+ADDWLCGRP,Add Workload Group,作業負荷グループを追加する
+ADDWLCPRDE,Add Workload Product Entry,作業負荷プロダクト項目を追加する
+ADDWSE,Add Work Station Entry,ワークステーション項目を追加する
+ALCOBJ,Allocate Object,オブジェクトを割り振る (ロックする)
+ANSLIN,Answer Line,回線に応答する
+ANSQST,Answer Questions,質問に応答する
+ANZCADPRF,Analyze Admin Domain Profile,管理ドメイン・プロファイルを分析する
+ANZCMDPFR,Analyze Command Performance,コマンド・パフォーマンスを分析する
+ANZDBF,Analyze Database Files,データベース・ファイルを分析する
+ANZDBFKEY,Analyze Database File Keys,データベース・ファイル・キーを分析する
+ANZDFTPWD,Analyze Default Passwords,省略時パスワードを分析する
+ANZDPRJRN,Analyze DataPropagator Journaling,DataPropagatorジャーナル処理を分析する
+ANZLIBBRM,Analyze Libraries using BRMS,BRMSを使用してライブラリーを分析する
+ANZOBJCVN,Analyze Object Conversion,オブジェクト変換を分析する
+ANZPFRDTA,Analyze Performance Data,パフォーマンス・データを分析する
+ANZPGM,Analyze Programs,プログラムを分析する
+ANZPRB,Analyze Problem,問題を分析する
+ANZPRFACT,Analyze Profile Activity,プロファイル活動を分析する
+ANZQRY,Analyze Query,Queryを分析する
+ANZUSROBJ,Analyze User Objects,ユーザー・オブジェクトを分析する
+APING,Verify APPC Connection,APPC接続を検査する
+APYJRNCHG,Apply Journaled Changes,ジャーナル済み変更を適用する
+APYPTF,Apply Program Temporary Fix,PTF (プログラム一時修正) を適用する
+AREXEC,Run Remote Command,リモート・コマンドを実行する
+ARPING,Send Address Resolution Protocol Request,ARP要求を送信する
+ASKQST,Ask Question,質問する
+BCHJOB,Batch Job,バッチ・ジョブ
+CALL,Call Program,プログラムを呼び出す
+CALLPRC,Call Bound Procedure,バインドされたプロシージャーを呼び出す
+CD,Change Current Directory,現行ディレクトリーを変更する
+CFGACCWEB,Configure Access for Web,Webアクセスを構成する
+CFGACCWEB2,Configure Access for Web,Webアクセスを構成する (2)
+CFGCRGCNR,Configure CRG Container,CRGコンテナーを構成する
+CFGDEVASP,Configure ASP Device,ASP装置を構成する
+CFGDEVMLB,Configure Device Media Library,媒体ライブラリー装置を構成する
+CFGDSTSRV,Configure Distribution Service,配布サービスを構成する
+CFGGEOMIR,Configure Geographic Mirror,地理的ミラーリングを構成する
+CFGHOSTSVR,Configure Host Server,ホスト・サーバーを構成する
+CFGPFRCOL,Configure Performance Collection,パフォーマンス収集を構成する
+CFGRTG,Configure Routing Protocols,ルーティング・プロトコルを構成する
+CFGSYSSEC,Configure System Security,システム機密保護を構成する
+CFGTCP,Configure TCP/IP,TCP/IPを構成する
+CFGTCPAPP,Configure TCP/IP Applications,TCP/IPアプリケーションを構成する
+CFGTCPFTP,Configure TCP/IP FTP,TCP/IP FTPを構成する
+CFGTCPHTTP,Configure TCP/IP HTTP,TCP/IP HTTPを構成する
+CFGTCPLPD,Configure TCP/IP LPD,TCP/IP LPDを構成する
+CFGTCPRXC,Configure TCP/IP REXEC,TCP/IP REXECを構成する
+CFGTCPSMTP,Configure TCP/IP SMTP,TCP/IP SMTPを構成する
+CFGTCPSNMP,Configure TCP/IP SNMP,TCP/IP SNMPを構成する
+CFGTCPTELN,Configure TCP/IP TELNET,TCP/IP TELNETを構成する
+CHDIR,Change Current Directory,現行ディレクトリーを変更する
+CHGACGCDE,Change Accounting Code,会計コードを変更する
+CHGACTPRFL,Change Active Profile List,活動プロファイル・リストを変更する
+CHGACTSCDE,Change Activation Schedule Entry,活動化スケジュール項目を変更する
+CHGAJE,Change Autostart Job Entry,自動開始ジョブ項目を変更する
+CHGALRACNE,Change Alert Action Entry,アラート処置項目を変更する
+CHGALRD,Change Alert Description,アラート記述を変更する
+CHGALRSLTE,Change Alert Selection Entry,アラート選択項目を変更する
+CHGALRTBL,Change Alert Table,アラート・テーブルを変更する
+CHGASPA,Change Auxiliary Storage Pool Attribute,ASP属性を変更する
+CHGASPACT,Change ASP Activity,ASP活動を変更する
+CHGASPCPYD,Change ASP Copy Description,ASPコピー記述を変更する
+CHGASPSSN,Change ASP Session,ASPセッションを変更する
+CHGATR,Change Attribute,属性を変更する
+CHGAUD,Change Auditing Value,監査値を変更する
+CHGAUT,Change Authority,権限を変更する
+CHGAUTCOL,Change Authority Collection,権限収集を変更する
+CHGAUTJS,Change Job Authority using Advanced Job Scheduler,AJSを使用してジョブ権限を変更する
+CHGAUTLE,Change Authorization List Entry,権限リスト項目を変更する
+CHGBCKUP,Change Backup Options,バックアップ・オプションを変更する
+CHGCAD,Change Cluster Administrative Domain,クラスター管理ドメインを変更する
+CHGCDEFNT,Change Coded Font,コード化フォントを変更する
+CHGCFGL,Change Configuration List,構成リストを変更する
+CHGCFGLE,Change Configuration List Entries,構成リスト項目を変更する
+CHGCLNUP,Change Cleanup,クリーンアップを変更する
+CHGCLS,Change Class,クラスを変更する
+CHGCLU,Change Cluster Configuration,クラスター構成を変更する
+CHGCLUMON,Change Cluster Monitor,クラスター・モニターを変更する
+CHGCLUNODE,Change Cluster Node Entry,クラスター・ノード項目を変更する
+CHGCLURCY,Change Cluster Recovery,クラスター回復を変更する
+CHGCLUVER,Change Cluster Version,クラスター・バージョンを変更する
+CHGCMD,Change Command,コマンドを変更する
+CHGCMDDFT,Change Command Default,コマンドの省略時値を変更する
+CHGCMNE,Change Communications Entry,通信項目を変更する
+CHGCNTINF,Change Contact Information,連絡先情報を変更する
+CHGCOMSNMP,Change Community for SNMP,SNMPコミュニティーを変更する
+CHGCOSD,Change Class-of-Service Description,サービス・クラス記述を変更する
+CHGCRG,Change Cluster Resource Group,クラスター・リソース・グループを変更する
+CHGCRGCNR,Change CRG Container,CRGコンテナーを変更する
+CHGCRGDEVE,Change Cluster Resource Group Device Entry,CRG装置項目を変更する
+CHGCRGPRI,Change Cluster Resource Group Primary,CRG1次ノードを変更する
+CHGCRQD,Change Change Request Description,変更要求記述を変更する
+CHGCSI,Change Communications Side Information,通信サイド情報を変更する
+CHGCSMSSN,Change CSM ASP Session,CSM ASPセッションを変更する
+CHGCTLAPPC,Change Controller Description (APPC),コントローラー記述(APPC)を変更する
+CHGCTLASC,Change Controller Description (Async),コントローラー記述(非同期)を変更する
+CHGCTLBSC,Change Controller Description (BSC),コントローラー記述(BSC)を変更する
+CHGCTLHOST,Change Controller Description (SNA Host),コントローラー記述(SNAホスト)を変更する
+CHGCTLLWS,Change Controller Description (Local WS),コントローラー記述(ローカルWS)を変更する
+CHGCTLNET,Change Controller Description (Network),コントローラー記述(ネットワーク)を変更する
+CHGCTLTAP,Change Controller Description (Tape),コントローラー記述(磁気テープ)を変更する
+CHGCTLVWS,Change Controller Description (Virtual WS),コントローラー記述(仮想WS)を変更する
+CHGCURDIR,Change Current Directory,現行ディレクトリーを変更する
+CHGCURLIB,Change Current Library,現行ライブラリーを変更する
+CHGDBG,Change Debug,デバッグを変更する
+CHGDDMF,Change Distributed Data Management File,DDMファイルを変更する
+CHGDDMTCPA,Change Distributed Data Management TCP/IP Attributes,DDM TCP/IP属性を変更する
+CHGDEVAPPC,Change Device Description (APPC),装置記述(APPC)を変更する
+CHGDEVASC,Change Device Description (Async),装置記述(非同期)を変更する
+CHGDEVASP,Change Device Description (ASP),装置記述(ASP)を変更する
+CHGDEVBSC,Change Device Description (BSC),装置記述(BSC)を変更する
+CHGDEVCRP,Change Device Description (Crypto),装置記述(暗号)を変更する
+CHGDEVDSP,Change Device Description (Display),装置記述(表示装置)を変更する
+CHGDEVHOST,Change Device Description (SNA Host),装置記述(SNAホスト)を変更する
+CHGDEVINTR,Change Device Description (Intra),装置記述(Intra)を変更する
+CHGDEVMLB,Change Device Description (Media Lib),装置記述(媒体ライブラリー)を変更する
+CHGDEVNET,Change Device Description (Network),装置記述(ネットワーク)を変更する
+CHGDEVNWSH,Change Device Description (NWSH),装置記述(NWSH)を変更する
+CHGDEVOPT,Change Device Description (Optical),装置記述(光ディスク)を変更する
+CHGDEVPRT,Change Device Description (Printer),装置記述(印刷装置)を変更する
+CHGDEVSNPT,Change Device Description (SNPT),装置記述(SNPT)を変更する
+CHGDEVTAP,Change Device Description (Tape),装置記述(磁気テープ)を変更する
+CHGDIRE,Change Directory Entry,ディレクトリー項目を変更する
+CHGDIRSHD,Change Directory Shadow System,ディレクトリー・シャドー・システムを変更する
+CHGDIRSVRA,Change Directory Server Attributes,ディレクトリー・サーバー属性を変更する
+CHGDLJS,Change Data Library using Advanced Job Scheduler,AJSを使用してデータ・ライブラリーを変更する
+CHGDLOAUD,Change Document Library Object Auditing Level,文書ライブラリー・オブジェクト監査レベルを変更する
+CHGDLOAUT,Change Document Library Object Authority,文書ライブラリー・オブジェクト権限を変更する
+CHGDLOOWN,Change Document Library Object Owner,文書ライブラリー・オブジェクト所有者を変更する
+CHGDLOPGP,Change Document Library Object Primary Group,文書ライブラリー・オブジェクト1次グループを変更する
+CHGDNSA,Change Domain Name System Server Attributes,DNSサーバー属性を変更する
+CHGDOCD,Change Document Description,文書記述を変更する
+CHGDSPF,Change Display File,表示ファイルを変更する
+CHGDSTA,Change Distribution Attributes,配布属性を変更する
+CHGDSTD,Change Distribution,配布を変更する
+CHGDSTL,Change Distribution List,配布リストを変更する
+CHGDSTPWD,Change IBM Service Tools Password,IBMサービス・ツール・パスワードを変更する
+CHGDSTQ,Change Distribution Queue,配布待ち行列を変更する
+CHGDSTRTE,Change Distribution Route,配布経路を変更する
+CHGDTA,Change Data,データを変更する
+CHGDTAARA,Change Data Area,データ域を変更する
+CHGDTAJS,Change Parameter Data,パラメーター・データを変更する
+CHGEMLCFGE,Change Configuration Entry,構成項目を変更する
+CHGENVVAR,Change Environment Variable,環境変数を変更する
+CHGEWCBCDE,Change Wireless Controller Barcode Entry,無線コントローラー・バーコード項目を変更する
+CHGEWCM,Change Wireless Controller Member,無線コントローラー・メンバーを変更する
+CHGEWCPTCE,Change Wireless Controller PTC Entry,無線コントローラーPTC項目を変更する
+CHGEWLM,Change Wireless Line Member,無線回線メンバーを変更する
+CHGEXPSCDE,Change Expiration Schedule Entry,有効期限切れスケジュール項目を変更する
+CHGFCNARA,Change Functional Area,機能域を変更する
+CHGFCNUSG,Change Function Usage,機能使用法を変更する
+CHGFNTRSC,Change Font Resource,フォント・リソースを変更する
+CHGFNTTBLE,Change Font Table Entry,フォント・テーブル項目を変更する
+CHGFTPA,Change FTP Attributes,FTP属性を変更する
+CHGFTR,Change Filter,フィルターを変更する
+CHGGPHFMT,Change Graph Format,グラフ様式を変更する
+CHGGPHPKG,Change Graph Package,グラフ・パッケージを変更する
+CHGGRPA,Change Group Attributes,グループ属性を変更する
+CHGHACFGD,Change HA Configuration Description,HA構成記述を変更する
+CHGHAPCY,Change High Availability Policy,高可用性ポリシーを変更する
+CHGHAWEB,Change PowerHA Webserver,PowerHA Webサーバーを変更する
+CHGHLLPTR,Change High-Level Language Pointer,高水準言語ポインターを変更する
+CHGHTTPA,Change HTTP Attributes,HTTP属性を変更する
+CHGHYSSTS,Change HyperSwap Status,HyperSwap状況を変更する
+CHGICFDEVE,Change Intersystem Communications Function Device Entry,ICF装置項目を変更する
+CHGICFF,Change Intersystem Communications Function File,ICFファイルを変更する
+CHGIMGCLG,Change Image Catalog,イメージ・カタログを変更する
+CHGIMGCLGE,Change Image Catalog Entry,イメージ・カタログ項目を変更する
+CHGIPLA,Change IPL Attributes,IPL属性を変更する
+CHGJOB,Change Job,ジョブを変更する
+CHGJOBD,Change Job Description,ジョブ記述を変更する
+CHGJOBJS,Change Job using Advanced Job Scheduler,AJSを使用してジョブを変更する
+CHGJOBMLBA,Change Job Media Library Attributes,ジョブ媒体ライブラリー属性を変更する
+CHGJOBQ,Change Job Queue,ジョブ待ち行列を変更する
+CHGJOBQE,Change Job Queue Entry,ジョブ待ち行列項目を変更する
+CHGJOBSCDE,Change Job Schedule Entry,ジョブ・スケジュール項目を変更する
+CHGJOBTYP,Change Job Type,ジョブ・タイプを変更する
+CHGJRN,Change Journal,ジャーナルを変更する
+CHGJRNA,Change Journal Attributes,ジャーナル属性を変更する
+CHGJRNOBJ,Change Journaled Object,ジャーナル処理済みオブジェクトを変更する
+CHGKBDMAP,Change Keyboard Map,キーボード・マップを変更する
+CHGKRBPWD,Change Kerberos Password,Kerberosパスワードを変更する
+CHGLANADPI,Change LAN Adapter Information,LANアダプター情報を変更する
+CHGLF,Change Logical File,論理ファイルを変更する
+CHGLFM,Change Logical File Member,論理ファイル・メンバーを変更する
+CHGLIB,Change Library,ライブラリーを変更する
+CHGLIBL,Change Library List,ライブラリー・リストを変更する
+CHGLICINF,Change License Information,ライセンス情報を変更する
+CHGLINASC,Change Line Description (Async),回線記述(非同期)を変更する
+CHGLINBSC,Change Line Description (BSC),回線記述(BSC)を変更する
+CHGLINETH,Change Line Description (Ethernet),回線記述(イーサネット)を変更する
+CHGLNKLBRM,Change Link List,リンク・リストを変更する
+CHGLPDA,Change LPD Attributes,LPD属性を変更する
+CHGMEDBRM,Change Media using BRMS,BRMSを使用して媒体を変更する
+CHGMGTCOL,Change Management Collection,管理収集を変更する
+CHGMNU,Change Menu,メニューを変更する
+CHGMOD,Change Module,モジュールを変更する
+CHGMODD,Change Mode Description,モード記述を変更する
+CHGMSGD,Change Message Description,メッセージ記述を変更する
+CHGMSGF,Change Message File,メッセージ・ファイルを変更する
+CHGMSGQ,Change Message Queue,メッセージ待ち行列を変更する
+CHGNCK,Change Nickname,ニックネームを変更する
+CHGNETA,Change Network Attributes,ネットワーク属性を変更する
+CHGNETJOBE,Change Network Job Entry,ネットワーク・ジョブ項目を変更する
+CHGNFSEXP,Change Network File System Export,NFSエクスポートを変更する
+CHGNFYJS,Change Notification Command using Advanced Job Scheduler,AJSを使用して通知コマンドを変更する
+CHGNODGRPA,Change Node Group Attributes,ノード・グループ属性を変更する
+CHGNTBD,Change NetBIOS Description,NetBIOS記述を変更する
+CHGNTPA,Change Network Time Protocol Attributes,NTP属性を変更する
+CHGNWSA,Change Network Server Attributes,ネットワーク・サーバー属性を変更する
+CHGNWSCFG,Change Network Server Configuration,ネットワーク・サーバー構成を変更する
+CHGNWSD,Change Network Server Description,ネットワーク・サーバー記述を変更する
+CHGNWSSTG,Change Network Server Storage Space,ネットワーク・サーバー記憶スペースを変更する
+CHGNWSUSRA,Change Network Server User Attributes,ネットワーク・サーバー・ユーザー属性を変更する
+CHGOBJAUD,Change Object Auditing,オブジェクト監査を変更する
+CHGOBJCA,Change ObjectConnect Attrs,ObjectConnect属性を変更する
+CHGOBJD,Change Object Description,オブジェクト記述を変更する
+CHGOBJOWN,Change Object Owner,オブジェクト所有者を変更する
+CHGOBJPGP,Change Object Primary Group,オブジェクト1次グループを変更する
+CHGOPTA,Change Optical Attributes,光ディスク属性を変更する
+CHGOPTVOL,Change Optical Volume,光ディスク・ボリュームを変更する
+CHGOSPFA,Change OSPF Attributes,OSPF属性を変更する
+CHGOSPFARA,Change OSPF Area,OSPFエリアを変更する
+CHGOSPFIFC,Change OSPF Interface,OSPFインターフェースを変更する
+CHGOSPFLNK,Change OSPF Virtual Link,OSPF仮想リンクを変更する
+CHGOSPFRNG,Change OSPF Range,OSPF範囲を変更する
+CHGOUTQ,Change Output Queue,出力待ち行列を変更する
+CHGOWN,Change Owner,所有者を変更する
+CHGPCOPRF,Change PC Organizer Profile,PCオーガナイザー・プロファイルを変更する
+CHGPDGPRF,Change Print Descriptor Group Profile,印刷記述子グループ・プロファイルを変更する
+CHGPDMDFT,Change Programming Development Manager Defaults,PDM省略時値を変更する
+CHGPEXDFN,Change Performance Explorer Definition,PEX定義を変更する
+CHGPF,Change Physical File,物理ファイルを変更する
+CHGPFCST,Change Physical File Constraint,物理ファイル制約を変更する
+CHGPFM,Change Physical File Member,物理ファイル・メンバーを変更する
+CHGPFTRG,Change Physical File Trigger,物理ファイル・トリガーを変更する
+CHGPGM,Change Program,プログラムを変更する
+CHGPGMVAR,Change Program Variable,プログラム変数を変更する
+CHGPGP,Change Primary Group,1次グループを変更する
+CHGPGRJS,Change Pager Command using Advanced Job Scheduler,AJSを使用してポケットベル・コマンドを変更する
+CHGPJ,Change Prestart Job,事前開始ジョブを変更する
+CHGPJE,Change Prestart Job Entry,事前開始ジョブ項目を変更する
+CHGPLDOND,Change Policy Level Date,ポリシー・レベル日付を変更する
+CHGPOPA,Change POP Server Attributes,POPサーバー属性を変更する
+CHGPRB,Change Problem,問題を変更する
+CHGPRBACNE,Change Problem Action Entry,問題処置項目を変更する
+CHGPRBSLTE,Change Problem Selection Entry,問題選択項目を変更する
+CHGPRDOBJD,Change Product Object Description,プロダクト・オブジェクト記述を変更する
+CHGPRF,Change Profile,プロファイルを変更する
+CHGPRTF,Change Printer File,印刷装置ファイルを変更する
+CHGPRXCMD,Change Proxy Command,プロキシー・コマンドを変更する
+CHGPSFCFG,Change Print Services Facility Configuration,PSF構成を変更する
+CHGPTR,Change Pointer,ポインターを変更する
+CHGPWD,Change Password,パスワードを変更する
+CHGPWRSCD,Change Power On/Off Schedule,電源オン/オフ・スケジュールを変更する
+CHGPWRSCDE,Change Power Schedule Entry,電源スケジュール項目を変更する
+CHGQRYA,Change Query Attributes,Query属性を変更する
+CHGQSTDB,Change Question/Answer Database,Q/Aデータベースを変更する
+CHGRCYAP,Change Recovery for Access Paths,アクセス・パスの回復を変更する
+CHGRDBDIRE,Change Relational Database Directory Entry,RDBディレクトリー項目を変更する
+CHGRIPA,Change Routing Information Protocol Attributes,RIP属性を変更する
+CHGRIPFLT,Change Routing Information Protocol Filter,RIPフィルターを変更する
+CHGRIPIFC,Change Routing Information Protocol Interface,RIPインターフェースを変更する
+CHGRMTDFN,Change Remote Definition,リモート定義を変更する
+CHGRMTJRN,Change Remote Journal,リモート・ジャーナルを変更する
+CHGRPYLE,Change Reply List Entry,応答リスト項目を変更する
+CHGRTGE,Change Routing Entry,ルーティング項目を変更する
+CHGRWSPWD,Change Remote Workstation Controller Password,リモートWSコントローラー・パスワードを変更する
+CHGRXCA,Change REXEC Attributes,REXEC属性を変更する
+CHGS36,Change S/36 Configuration,S/36構成を変更する
+CHGS36A,Change S/36 Environment Attributes,S/36環境属性を変更する
+CHGS36MSGL,Change S/36 Message List,S/36メッセージ・リストを変更する
+CHGS36PGMA,Change S/36 Program Attributes,S/36プログラム属性を変更する
+CHGS36PRCA,Change S/36 Proc Attributes,S/36プロシージャー属性を変更する
+CHGS36SRCA,Change S/36 Source Attributes,S/36ソース属性を変更する
+CHGSAVF,Change Save File,保管ファイルを変更する
+CHGSBSD,Change Subsystem Description,サブシステム記述を変更する
+CHGSCDBRM,Change Job Scheduler,ジョブ・スケジューラーを変更する
+CHGSCHIDX,Change Search Index,検索索引を変更する
+CHGSDSTL,Change SMTP Dist List,SMTP配布リストを変更する
+CHGSECA,Change Security Attributes,機密保護属性を変更する
+CHGSECAUD,Change Security Auditing,機密保護監査を変更する
+CHGSHRPOOL,Change Shared Storage Pool,共用記憶域プールを変更する
+CHGSMTPA,Change SMTP Attributes,SMTP属性を変更する
+CHGSMTPRLE,Change Remote Login Entry,リモート・ログイン項目を変更する
+CHGSNMPA,Change SNMP Attributes,SNMP属性を変更する
+CHGSPLFA,Change Spooled File Attributes,スプール・ファイル属性を変更する
+CHGSRCPF,Change Source Physical File,ソース物理ファイルを変更する
+CHGSRVA,Change Service Attributes,サービス属性を変更する
+CHGSRVAGT,Change Service Agent,サービス・エージェントを変更する
+CHGSRVAGTA,Change Service Agent Attributes,サービス・エージェント属性を変更する
+CHGSRVCFG,Change Service Configuration,サービス構成を変更する
+CHGSRVPGM,Change Service Program,サービス・プログラムを変更する
+CHGSSNMAX,Change Session Maximum,セッション最大値を変更する
+CHGSSTKEY,Change SST TOTP Key,SST TOTPキーを変更する
+CHGSSTSECA,Change SST Security Attributes,SST機密保護属性を変更する
+CHGSSTUSR,Change Service Tools User ID,保守ツール・ユーザーIDを変更する
+CHGSVCCPYD,Change SAN Volume Controller ASP Copy Description,SVC ASPコピー記述を変更する
+CHGSVCSSN,Change SAN Volume Controller ASP Session,SVC ASPセッションを変更する
+CHGSVRAUTE,Change Server Authentication Entry,サーバー権限項目を変更する
+CHGSYSDIRA,Change System Directory Attributes,システム・ディレクトリー属性を変更する
+CHGSYSJOB,Change System Job,システム・ジョブを変更する
+CHGSYSLIBL,Change System Library List,システム・ライブラリー・リストを変更する
+CHGSYSVAL,Change System Value,システム値を変更する
+CHGTAPCTG,Change Tape Cartridge,磁気テープ・カートリッジを変更する
+CHGTAPF,Change Tape File,磁気テープ・ファイルを変更する
+CHGTCPA,Change TCP/IP Attributes,TCP/IP属性を変更する
+CHGTCPDMN,Change TCP/IP Domain,TCP/IPドメインを変更する
+CHGTCPHTE,Change TCP/IP Host Table Entry,TCP/IPホスト・テーブル項目を変更する
+CHGTCPIFC,Change TCP/IP Interface,TCP/IPインターフェースを変更する
+CHGTCPRTE,Change TCP/IP Route,TCP/IP経路を変更する
+CHGTCPSVR,Change TCP/IP Server,TCP/IPサーバーを変更する
+CHGTELNA,Change TELNET Attributes,TELNET属性を変更する
+CHGTFTPA,Change TFTP Attributes,TFTP属性を変更する
+CHGTIMZON,Change Time Zone Description,時間帯記述を変更する
+CHGTOTPKEY,Change TOTP Key,TOTPキーを変更する
+CHGUSRAUD,Change User Auditing,ユーザー監査を変更する
+CHGUSRPRF,Change User Profile,ユーザー・プロファイルを変更する
+CHGUSRPRTI,Change User Print Information,ユーザー印刷情報を変更する
+CHGUSRSMTP,Change User SMTP,ユーザーSMTPを変更する
+CHGUSRSNMP,Change User for SNMP,SNMPユーザーを変更する
+CHGUSRTRC,Change User Trace,ユーザー・トレースを変更する
+CHGVACSNMP,Change VACM for SNMP,SNMPのVACMを変更する
+CHGVAR,Change Variable,変数を変更する
+CHGVTMAP,Change VT Keyboard Map,VTキーボード・マップを変更する
+CHGWLCGRP,Change Workload Group,作業負荷グループを変更する
+CHGWSE,Change Work Station Entry,ワークステーション項目を変更する
+CHGWTR,Change Writer,書き出しプログラムを変更する
+CHKASPBAL,Check Auxiliary Storage Pool Balance,ASPバランスを検査する
+CHKCMNTRC,Check Communications Trace,通信トレースを検査する
+CHKDLO,Check Document Library Object,文書ライブラリー・オブジェクトを検査する
+CHKDNSCFG,Check Domain Name System Configuration,DNS構成を検査する
+CHKDNSZNE,Check Domain Name System Zone,DNSゾーンを検査する
+CHKEXPBRM,Check Expired Media for BRMS,BRMSの満了媒体を検査する
+CHKIGCTBL,Check DBCS Font Table,DBCSフォント・テーブルを検査する
+CHKIN,Check In Object,オブジェクトをチェックインする
+CHKMSTKVV,Check Master Key Verification Value,マスター・キー検査値を検査する
+CHKOBJ,Check Object,オブジェクトを検査する
+CHKOBJITG,Check Object Integrity,オブジェクト保全性を検査する
+CHKOPTVOL,Check Optical Volume,光ディスク・ボリュームを検査する
+CHKOUT,Check Out Object,オブジェクトをチェックアウトする
+CHKPFRCOL,Check Performance Collection,パフォーマンス収集を検査する
+CHKPRDOPT,Check Product Option,プロダクト・オプションを検査する
+CHKPWD,Check Password,パスワードを検査する
+CHKRCDLCK,Check Record Locks,レコード・ロックを検査する
+CHKTAP,Check Tape,磁気テープを検査する
+CHKTOTP,Check TOTP,TOTPを検査する
+CLOF,Close File,ファイルをクローズする
+CLOSE,Close Database File,データベース・ファイルをクローズする
+CLRJOBQ,Clear Job Queue,ジョブ待ち行列をクリアする
+CLRLIB,Clear Library,ライブラリーをクリアする
+CLRMSGQ,Clear Message Queue,メッセージ待ち行列をクリアする
+CLRMSTKEY,Clear Master Key,マスター・キーをクリアする
+CLROUTQ,Clear Output Queue,出力待ち行列をクリアする
+CLRPFM,Clear Physical File Member,物理ファイル・メンバーをクリアする
+CLRPOOL,Clear Pool,プールをクリアする
+CLRSAVF,Clear Save File,保管ファイルをクリアする
+CLRSVRSEC,Clear Server Security Data,サーバー機密保護データをクリアする
+CLRTRCDTA,Clear Trace Data,トレース・データをクリアする
+CMD,Command Definition,コマンド定義
+CMPJRNIMG,Compare Journal Images,ジャーナル・イメージを比較する
+COMMIT,Commit,コミットする
+COPY,Copy Object,オブジェクトをコピーする
+COPYRIGHT,Copyright,著作権
+CPROBJ,Compress Object,オブジェクトを圧縮する
+CPY,Copy Object,オブジェクトをコピーする
+CPYAUDJRNE,Copy Audit Journal Entries,監査ジャーナル項目をコピーする
+CPYCFGL,Copy Configuration List,構成リストをコピーする
+CPYDOC,Copy Document,文書をコピーする
+CPYF,Copy File,ファイルをコピーする
+CPYFCNARA,Copy Functional Area,機能域をコピーする
+CPYFRMARCF,Copy From Archive File,アーカイブ・ファイルからコピーする
+CPYFRMDIR,Copy From Directory,ディレクトリーからコピーする
+CPYFRMIMPF,Copy From Import File,インポート・ファイルからコピーする
+CPYFRMLDIF,Copy From LDIF File,LDIFファイルからコピーする
+CPYFRMMSD,Copy From Main Storage Dump,主記憶ダンプからコピーする
+CPYFRMPCD,Copy From PC Document,PC文書からコピーする
+CPYFRMPCFF,Copy From Portable Compiled Format File,PCFFからコピーする
+CPYFRMQRYF,Copy From Query File,Queryファイルからコピーする
+CPYFRMSTMF,Copy From Stream File,ストリーム・ファイルからコピーする
+CPYFRMTAP,Copy From Tape,磁気テープからコピーする
+CPYGPHFMT,Copy Graph Format,グラフ様式をコピーする
+CPYGPHPKG,Copy Graph Package,グラフ・パッケージをコピーする
+CPYIGCTBL,Copy DBCS Font Table,DBCSフォント・テーブルをコピーする
+CPYJOBJS,Copy Job using Advanced Job Scheduler,AJSを使用してジョブをコピーする
+CPYLIB,Copy Library,ライブラリーをコピーする
+CPYMEDIBRM,Copy Media Information for BRMS,BRMSの媒体情報をコピーする
+CPYOPT,Copy Optical,光ディスクをコピーする
+CPYPFRCOL,Copy Performance Collection,パフォーマンス収集をコピーする
+CPYPFRDTA,Copy Performance Data,パフォーマンス・データをコピーする
+CPYPTF,Copy Program Temporary Fix,PTFをコピーする
+CPYPTFCVR,Copy Program Temporary Fix Cover Letter,PTFカバー・レターをコピーする
+CPYPTFGRP,Copy Program Temporary Fix Group,PTFグループをコピーする
+CPYPTFSAVF,Copy Program Temporary Fix to Save File,PTFを保管ファイルにコピーする
+CPYSPLF,Copy Spooled File,スプール・ファイルをコピーする
+CPYSRCF,Copy Source File,ソース・ファイルをコピーする
+CPYTCPHT,Copy TCP/IP Host Table,TCP/IPホスト・テーブルをコピーする
+CPYTOARCF,Copy To Archive File,アーカイブ・ファイルへコピーする
+CPYTODIR,Copy To Directory,ディレクトリーへコピーする
+CPYTOIMPF,Copy To Import File,インポート・ファイルへコピーする
+CPYTOLDIF,Copy To LDIF File,LDIFファイルへコピーする
+CPYTOMSD,Copy To Main Storage Dump,主記憶ダンプへコピーする
+CPYTOPCD,Copy To PC Document,PC文書へコピーする
+CPYTOPCFF,Copy To Portable Compiled Format File,PCFFへコピーする
+CPYTOSTMF,Copy To Stream File,ストリーム・ファイルへコピーする
+CPYTOTAP,Copy To Tape,磁気テープへコピーする
+CPYVPNCFGF,Copy VPN Configuration File,VPN構成ファイルをコピーする
+CRTAFPDTA,Create Advanced Function Printer Data,AFPデータを処理する
+CRTALRTBL,Create Alert Table,アラート・テーブルを作成する
+CRTAUTHLR,Create Authority Holder,権限ホルダーを作成する
+CRTAUTL,Create Authorization List,権限リストを作成する
+CRTBNDC,Create Bound C Program,バインドCプログラムを作成する
+CRTBNDCBL,Create Bound COBOL Program,バインドCOBOLプログラムを作成する
+CRTBNDCL,Create Bound CL Program,バインドCLプログラムを作成する
+CRTBNDCPP,Create Bound C++ Program,バインドC++プログラムを作成する
+CRTBNDDIR,Create Binding Directory,バインド・ディレクトリーを作成する
+CRTBNDRPG,Create Bound RPG Program,バインドRPGプログラムを作成する
+CRTCAD,Create Cluster Administrative Domain,クラスター管理ドメインを作成する
+CRTCBLMOD,Create COBOL Module,COBOLモジュールを作成する
+CRTCBLPGM,Create COBOL Program,COBOLプログラムを作成する
+CRTCFGL,Create Configuration List,構成リストを作成する
+CRTCKMKSF,Create Crytographic Key Management Keystore File,暗号鍵管理キーストア・ファイルを作成する
+CRTCLD,Create C Locale Description,Cロケール記述を作成する
+CRTCLMOD,Create CL Module,CLモジュールを作成する
+CRTCLPGM,Create CL Program,CLプログラムを作成する
+CRTCLS,Create Class,クラスを作成する
+CRTCLU,Create Cluster,クラスターを作成する
+CRTCMD,Create Command,コマンドを作成する
+CRTCMOD,Create C Module,Cモジュールを作成する
+CRTCOSD,Create Class-of-Service Description,サービス・クラス記述を作成する
+CRTCPPMOD,Create C++ Module,C++モジュールを作成する
+CRTCRG,Create Cluster Resource Group,クラスター・リソース・グループを作成する
+CRTCRGCNR,Create CRG Container,CRGコンテナーを作成する
+CRTCRQD,Create Change Request Description,変更要求記述を作成する
+CRTCSI,Create Communications Side Information,通信サイド情報を作成する
+CRTCTLAPPC,Create Controller Description (APPC),コントローラー記述(APPC)を作成する
+CRTCTLASC,Create Controller Description (Async),コントローラー記述(非同期)を作成する
+CRTCTLBSC,Create Controller Description (BSC),コントローラー記述(BSC)を作成する
+CRTCTLHOST,Create Controller Description (SNA Host),コントローラー記述(SNAホスト)を作成する
+CRTCTLLWS,Create Controller Description (Local WS),コントローラー記述(ローカルWS)を作成する
+CRTCTLNET,Create Controller Description (Network),コントローラー記述(ネットワーク)を作成する
+CRTCTLTAP,Create Controller Description (Tape),コントローラー記述(磁気テープ)を作成する
+CRTCTLVWS,Create Controller Description (Virtual WS),コントローラー記述(仮想WS)を作成する
+CRTDDMF,Create Distributed Data Management File,DDMファイルを作成する
+CRTDDNSCFG,Create Dynamic Domain Name System Configuration,動的DNS構成を作成する
+CRTDEVAPPC,Create Device Description (APPC),装置記述(APPC)を作成する
+CRTDEVASC,Create Device Description (Async),装置記述(非同期)を作成する
+CRTDEVASP,Create Device Description (ASP),装置記述(ASP)を作成する
+CRTDEVBSC,Create Device Description (BSC),装置記述(BSC)を作成する
+CRTDEVCRP,Create Device Description (Crypto),装置記述(暗号)を作成する
+CRTDEVDSP,Create Device Description (Display),装置記述(表示装置)を作成する
+CRTDEVHOST,Create Device Description (SNA Host),装置記述(SNAホスト)を作成する
+CRTDEVINTR,Create Device Description (Intra),装置記述(Intra)を作成する
+CRTDEVMLB,Create Device Description (Media Lib),装置記述(媒体ライブラリー)を作成する
+CRTDEVNET,Create Device Description (Network),装置記述(ネットワーク)を作成する
+CRTDEVNWSH,Create Device Description (NWSH),装置記述(NWSH)を作成する
+CRTDEVOPT,Create Device Description (Optical),装置記述(光ディスク)を作成する
+CRTDEVPRT,Create Device Description (Printer),装置記述(印刷装置)を作成する
+CRTDEVSNPT,Create Device Description (SNPT),装置記述(SNPT)を作成する
+CRTDEVTAP,Create Device Description (Tape),装置記述(磁気テープ)を作成する
+CRTDFUDSPF,Create Data File Utility Display File,DFU表示ファイルを作成する
+CRTDIR,Create Directory,ディレクトリーを作成する
+CRTDOC,Create Document,文書を作成する
+CRTDPRTBL,Create DataPropagator Tables,DataPropagatorテーブルを作成する
+CRTDSPF,Create Display File,表示ファイルを作成する
+CRTDSTL,Create Distribution List,配布リストを作成する
+CRTDTAARA,Create Data Area,データ域を作成する
+CRTDTADCT,Create Data Dictionary,データ・ディクショナリーを作成する
+CRTDTAQ,Create Data Queue,データ待ち行列を作成する
+CRTDUPOBJ,Create Duplicate Object,重複オブジェクトを作成する
+CRTEDTD,Create Edit Description,編集記述を作成する
+CRTFCNARA,Create Functional Area,機能域を作成する
+CRTFLR,Create Folder,フォルダーを作成する
+CRTFMWPRD,Create Firmware Product,ファームウェア・プロダクトを作成する
+CRTFNTRSC,Create Font Resource,フォント・リソースを作成する
+CRTFNTTBL,Create Font Table,フォント・テーブルを作成する
+CRTFORMDF,Create Form Definition,用紙定義を作成する
+CRTFTR,Create Filter,フィルターを作成する
+CRTGPHFMT,Create Graph Format,グラフ様式を作成する
+CRTGPHPKG,Create Graph Package,グラフ・パッケージを作成する
+CRTGSS,Create Graphics Symbol Set,グラフィックス記号セットを作成する
+CRTHSTDTA,Create Historical Data,ヒストリカル・データを作成する
+CRTICFF,Create Intersystem Communications Function File,ICFファイルを作成する
+CRTIGCDCT,Create DBCS Conversion Dictionary,DBCS変換ディクショナリーを作成する
+CRTIMGCLG,Create Image Catalog,イメージ・カタログを作成する
+CRTINSTOND,Create Instance,インスタンスを作成する
+CRTJOBD,Create Job Description,ジョブ記述を作成する
+CRTJOBQ,Create Job Queue,ジョブ待ち行列を作成する
+CRTJRN,Create Journal,ジャーナルを作成する
+CRTJRNRCV,Create Journal Receiver,ジャーナル・レシーバーを作成する
+CRTLF,Create Logical File,論理ファイルを作成する
+CRTLIB,Create Library,ライブラリーを作成する
+CRTLINASC,Create Line Description (Async),回線記述(非同期)を作成する
+CRTLINBSC,Create Line Description (BSC),回線記述(BSC)を作成する
+CRTLINETH,Create Line Description (Ethernet),回線記述(イーサネット)を作成する
+CRTLOCALE,Create Locale,ロケールを作成する
+CRTMNU,Create Menu,メニューを作成する
+CRTMODD,Create Mode Description,モード記述を作成する
+CRTMSGF,Create Message File,メッセージ・ファイルを作成する
+CRTMSGFMNU,Create Menu from Message Files,メッセージ・ファイルからメニューを作成する
+CRTMSGQ,Create Message Queue,メッセージ待ち行列を作成する
+CRTNODGRP,Create Node Group,ノード・グループを作成する
+CRTNODL,Create Node List,ノード・リストを作成する
+CRTNTBD,Create NetBIOS Description,NetBIOS記述を作成する
+CRTNWSCFG,Create Network Server Configuration,ネットワーク・サーバー構成を作成する
+CRTNWSD,Create Network Server Description,ネットワーク・サーバー記述を作成する
+CRTNWSSTG,Create Network Server Storage Space,ネットワーク・サーバー記憶スペースを作成する
+CRTOUTQ,Create Output Queue,出力待ち行列を作成する
+CRTOVL,Create Overlay,オーバーレイを作成する
+CRTPAGDFN,Create Page Definition,ページ定義を作成する
+CRTPAGSEG,Create Page Segment,ページ・セグメントを作成する
+CRTPDFMAP,Create PDF Map,PDFマップを作成する
+CRTPDG,Create Print Descriptor Group,印刷記述子グループを作成する
+CRTPEXDTA,Create Performance Explorer Data,PEXデータを作成する
+CRTPF,Create Physical File,物理ファイルを作成する
+CRTPFRDTA,Create Performance Data,パフォーマンス・データを作成する
+CRTPFRSUM,Create Performance Summary,パフォーマンス要約を作成する
+CRTPGM,Create Program,プログラムを作成する
+CRTPNLGRP,Create Panel Group,パネル・グループを作成する
+CRTPRDDFN,Create Product Definition,プロダクト定義を作成する
+CRTPRDLOD,Create Product Load,プロダクト・ロードを作成する
+CRTPRTF,Create Printer File,印刷装置ファイルを作成する
+CRTPRXCMD,Create Proxy Command,プロキシー・コマンドを作成する
+CRTPSFCFG,Create Print Services Facility Configuration,PSF構成を作成する
+CRTPTF,Create Program Temporary Fix,PTFを作成する
+CRTPTFPKG,Create Program Temporary Fix Package,PTFパッケージを作成する
+CRTQMFORM,Create Query Management Form,QMフォームを作成する
+CRTQMQRY,Create Query Management Query,QM照会を作成する
+CRTQSTDB,Create Question/Answer Database,Q/Aデータベースを作成する
+CRTQSTLOD,Create Question/Answer Database Load,Q/Aデータベース・ロードを作成する
+CRTRNDCCFG,Create Remote Name Daemon Control Configuration,RNDC構成を作成する
+CRTRPGMOD,Create RPG Module,RPGモジュールを作成する
+CRTRPGPGM,Create RPG/400 Program,RPG/400プログラムを作成する
+CRTRPTPGM,Create Auto Report RPG Program,自動報告書RPGプログラムを作成する
+CRTS36CBL,Create S/36 COBOL Program,S/36 COBOLプログラムを作成する
+CRTS36DSPF,Create S/36 Display File,S/36表示ファイルを作成する
+CRTS36MNU,Create S/36 Menu,S/36メニューを作成する
+CRTS36MSGF,Create S/36 Message File,S/36メッセージ・ファイルを作成する
+CRTS36RPG,Create RPG II Program,RPG IIプログラムを作成する
+CRTS36RPGR,Create Console Display File,コンソール表示ファイルを作成する
+CRTS36RPT,Create S/36 RPG II Auto Report,S/36 RPG II自動報告書を作成する
+CRTSAVF,Create Save File,保管ファイルを作成する
+CRTSBSD,Create Subsystem Description,サブシステム記述を作成する
+CRTSCHIDX,Create Search Index,検索索引を作成する
+CRTSDSTL,Create SMTP Dist List,SMTP配布リストを作成する
+CRTSPADCT,Create Spelling Aid Dictionary,スペル援助ディクショナリーを作成する
+CRTSQLCBL,Create SQL COBOL Program,SQL COBOLプログラムを作成する
+CRTSQLCBLI,Create SQL ILE COBOL Object,SQL ILE COBOLオブジェクトを作成する
+CRTSQLCI,Create SQL ILE C Object,SQL ILE Cオブジェクトを作成する
+CRTSQLCPPI,Create SQL ILE C++ Object,SQL ILE C++オブジェクトを作成する
+CRTSQLPKG,Create SQL Package,SQLパッケージを作成する
+CRTSQLPLI,Create SQL PL/I Program,SQL PL/Iプログラムを作成する
+CRTSQLRPG,Create SQL RPG Program,SQL RPGプログラムを作成する
+CRTSQLRPGI,Create SQL ILE RPG Object,SQL ILE RPGオブジェクトを作成する
+CRTSRCPF,Create Source Physical File,ソース物理ファイルを作成する
+CRTSRVCFG,Create Service Configuration,サービス構成を作成する
+CRTSRVPGM,Create Service Program,サービス・プログラムを作成する
+CRTSSTUSR,Create Service Tools User ID,保守ツール・ユーザーIDを作成する
+CRTTAPCGY,Create Tape Category,磁気テープ・カテゴリーを作成する
+CRTTAPF,Create Tape File,磁気テープ・ファイルを作成する
+CRTTBL,Create Table,テーブルを作成する
+CRTTIMZON,Create Time Zone Description,時間帯記述を作成する
+CRTUDFS,Create User-Defined File System,ユーザー定義ファイル・システムを作成する
+CRTUSRPRF,Create User Profile,ユーザー・プロファイルを作成する
+CRTVLDL,Create Validation List,妥当性検査リストを作成する
+CRTWSCST,Create Workstation Customizing Object,WSカスタマイズ・オブジェクトを作成する
+CVTCLSRC,Convert CL Source,CLソースを変換する
+CVTDAT,Convert Date,日付を変換する
+CVTDIR,Convert Directory,ディレクトリーを変換する
+CVTDLSNAM,Convert Document Library Services Name,文書ライブラリー・サービス名を変換する
+CVTEDU,Convert Education,教育を変換する
+CVTNAMSMTP,Convert SMTP Names,SMTP名を変換する
+CVTOPTBKU,Convert Optical Backup,光ディスク・バックアップを変換する
+CVTOVLPFM,Convert Overlay to PFM,オーバーレイをPFMに変換する
+CVTPAGSPFM,Convert Page Segment to PFM,ページ・セグメントをPFMに変換する
+CVTPCDPAGS,Convert PC Document to Page Segment,PC文書をページ・セグメントに変換する
+CVTPFMPAGS,Convert Physical File Member to Page Segment,PFMをページ・セグメントに変換する
+CVTPFRCOL,Convert Performance Collection,パフォーマンス収集を変換する
+CVTPFRDTA,Convert Performance Data,パフォーマンス・データを変換する
+CVTPFRTHD,Convert Performance Thread Data,パフォーマンス・スレッド・データを変換する
+CVTRPCSRC,Convert Remote Procedure Call Source,RPCソースを変換する
+CVTRPGSRC,Convert RPG Source,RPGソースを変換する
+CVTTOFLR,Convert To Folder,フォルダーに変換する
+CVTUSRCERT,Convert User Certificate,ユーザー証明書を変換する
+DATA,Data,データ
+DB2LDIF,Copy To LDIF File,LDIFファイルへコピーする
+DCPOBJ,Decompress Object,オブジェクトを圧縮解除する
+DEL,Remove Link,リンクを除去する
+DIG,Start DIG Query,DIG照会を開始する
+DLCOBJ,Deallocate Object,オブジェクトの割り振りを解除する
+DLTALR,Delete Alert,アラートを削除する
+DLTALRTBL,Delete Alert Table,アラート・テーブルを削除する
+DLTAPARDTA,Delete APAR Data,APARデータを削除する
+DLTAUTCOL,Delete Authority Collection,権限収集を削除する
+DLTAUTHLR,Delete Authority Holder,権限ホルダーを削除する
+DLTAUTL,Delete Authorization List,権限リストを削除する
+DLTBNDDIR,Delete Binding Directory,バインド・ディレクトリーを削除する
+DLTCAD,Delete Cluster Administrative Domain,クラスター管理ドメインを削除する
+DLTCFGL,Delete Configuration List,構成リストを削除する
+DLTCLD,Delete C Locale Description,Cロケール記述を削除する
+DLTCLS,Delete Class,クラスを削除する
+DLTCLU,Delete Cluster,クラスターを削除する
+DLTCMD,Delete Command,コマンドを削除する
+DLTCMNTRC,Delete Communications Trace,通信トレースを削除する
+DLTCNNL,Delete Connection List,接続リストを削除する
+DLTCOSD,Delete Class-of-Service Description,サービス・クラス記述を削除する
+DLTCRG,Delete Cluster Resource Group,クラスター・リソース・グループを削除する
+DLTCRGCLU,Delete Cluster Resource Group Cluster,CRGクラスターを削除する
+DLTCRGCNR,Delete CRG Container,CRGコンテナーを削除する
+DLTCRQD,Delete Change Request Description,変更要求記述を削除する
+DLTCSI,Delete Communications Side Information,通信サイド情報を削除する
+DLTCTLD,Delete Controller Description,コントローラー記述を削除する
+DLTDEVD,Delete Device Description,装置記述を削除する
+DLTDEVMLB,Delete Device Media Library,媒体ライブラリー装置を削除する
+DLTDFUPGM,Delete Data File Utility Program,DFUプログラムを削除する
+DLTDLO,Delete Document Library Object,文書ライブラリー・オブジェクトを削除する
+DLTDOCL,Delete Document List,文書リストを削除する
+DLTDST,Delete Distribution,配布を削除する
+DLTDSTL,Delete Distribution List,配布リストを削除する
+DLTDTAARA,Delete Data Area,データ域を削除する
+DLTDTADCT,Delete Data Dictionary,データ・ディクショナリーを削除する
+DLTDTAQ,Delete Data Queue,データ待ち行列を削除する
+DLTEDTD,Delete Edit Description,編集記述を削除する
+DLTEXPSPLF,Delete Expired Spooled Files,満了スプール・ファイルを削除する
+DLTF,Delete File,ファイルを削除する
+DLTFCNARA,Delete Functional Area,機能域を削除する
+DLTFNTRSC,Delete Font Resource,フォント・リソースを削除する
+DLTFNTTBL,Delete Font Table,フォント・テーブルを削除する
+DLTFORMDF,Delete Form Definition,用紙定義を削除する
+DLTFTR,Delete Filter,フィルターを削除する
+DLTGPHFMT,Delete Graph Format,グラフ様式を削除する
+DLTGPHPKG,Delete Graph Package,グラフ・パッケージを削除する
+DLTGSS,Delete Graphic Symbol Set,グラフィック記号セットを削除する
+DLTHSTDTA,Delete Historical Data,ヒストリカル・データを削除する
+DLTIGCDCT,Delete DBCS Conversion Dictionary,DBCS変換ディクショナリーを削除する
+DLTIGCSRT,Delete DBCS Sort Table,DBCSソート・テーブルを削除する
+DLTIGCTBL,Delete DBCS Font Table,DBCSフォント・テーブルを削除する
+DLTIMGCLG,Delete Image Catalog,イメージ・カタログを削除する
+DLTIPXD,Delete IPX Description,IPX記述を削除する
+DLTJOBD,Delete Job Description,ジョブ記述を削除する
+DLTJOBQ,Delete Job Queue,ジョブ待ち行列を削除する
+DLTJRN,Delete Journal,ジャーナルを削除する
+DLTJRNRCV,Delete Journal Receiver,ジャーナル・レシーバーを削除する
+DLTKRBCCF,Delete Kerberos Credentials Cache File,Kerberos資格情報キャッシュ・ファイルを削除する
+DLTLIB,Delete library,ライブラリーを削除する
+DLTLICPGM,Delete Licensed Program,ライセンス・プログラムを削除する
+DLTLIND,Delete Line Description,回線記述を削除する
+DLTLOCALE,Delete Locale,ロケールを削除する
+DLTMEDDFN,Delete Media Definition,媒体定義を削除する
+DLTMGTCOL,Delete Management Collection,管理収集を削除する
+DLTMNU,Delete Menu,メニューを削除する
+DLTMOD,Delete Module,モジュールを削除する
+DLTMODD,Delete Mode Description,モード記述を削除する
+DLTMSGF,Delete Message File,メッセージ・ファイルを削除する
+DLTMSGQ,Delete Message Queue,メッセージ待ち行列を削除する
+DLTNETF,Delete Network File,ネットワーク・ファイルを削除する
+DLTNODGRP,Delete Node Group,ノード・グループを削除する
+DLTNODL,Delete Node List,ノード・リストを削除する
+DLTNTBD,Delete NetBIOS Descriptions,NetBIOS記述を削除する
+DLTNWID,Delete Network Interface Description,ネットワーク・インターフェース記述を削除する
+DLTNWSCFG,Delete Network Server Configuration,ネットワーク・サーバー構成を削除する
+DLTNWSD,Delete Network Server Description,ネットワーク・サーバー記述を削除する
+DLTNWSSTG,Delete Network Server Storage Space,ネットワーク・サーバー記憶スペースを削除する
+DLTOBJ,Delete Object,オブジェクトを削除する
+DLTOUTQ,Delete Output Queue,出力待ち行列を削除する
+DLTOVL,Delete Overlay,オーバーレイを削除する
+DLTOVR,Delete Override,指定変更を削除する
+DLTOVRDEVE,Delete Override Program Device Entry,指定変更プログラム装置項目を削除する
+DLTPAGDFN,Delete Page Definition,ページ定義を削除する
+DLTPAGSEG,Delete Page Segment,ページ・セグメントを削除する
+DLTPDFMAP,Delete PDF Map,PDFマップを削除する
+DLTPDG,Delete Print Descriptor Group,印刷記述子グループを削除する
+DLTPEXDTA,Delete Performance Explorer Data,PEXデータを削除する
+DLTPFRCOL,Delete Performance Collection,パフォーマンス収集を削除する
+DLTPFRDTA,Delete Performance Data,パフォーマンス・データを削除する
+DLTPGM,Delete Program,プログラムを削除する
+DLTPNLGRP,Delete Panel Group,パネル・グループを削除する
+DLTPRB,Delete Problem,問題を削除する
+DLTPRDDFN,Delete Product Definition,プロダクト定義を削除する
+DLTPRDLOD,Delete Product Load,プロダクト・ロードを削除する
+DLTPSFCFG,Delete Print Services Facility Configuration,PSF構成を削除する
+DLTPTF,Delete Program Temporary Fix,PTFを削除する
+DLTQMFORM,Delete Query Management Form,QMフォームを削除する
+DLTQMQRY,Delete Query Management Query,QM照会を削除する
+DLTQRY,Delete Query,Queryを削除する
+DLTQST,Delete Questions and Answers,Q/Aを削除する
+DLTQSTDB,Delete Question/Answer Database,Q/Aデータベースを削除する
+DLTSBSD,Delete Subsystem Description,サブシステム記述を削除する
+DLTSCHIDX,Delete Search Index,検索索引を削除する
+DLTSDSTL,Delete SMTP Dist List,SMTP配布リストを削除する
+DLTSPADCT,Delete Spelling Aid Dictionary,スペル援助ディクショナリーを削除する
+DLTSPLF,Delete Spooled File,スプール・ファイルを削除する
+DLTSQLPKG,Delete SQL Package,SQLパッケージを削除する
+DLTSRVCFG,Delete Service Configuration,サービス構成を削除する
+DLTSRVPGM,Delete Service Program,サービス・プログラムを削除する
+DLTSSTUSR,Delete Service Tools User ID,保守ツール・ユーザーIDを削除する
+DLTTAPCGY,Delete Tape Category,磁気テープ・カテゴリーを削除する
+DLTTBL,Delete Table,テーブルを削除する
+DLTTIMZON,Delete Time Zone Description,時間帯記述を削除する
+DLTTRC,Delete Trace,トレースを削除する
+DLTUDFS,Delete User-Defined File System,ユーザー定義ファイル・システムを削除する
+DLTUSRIDX,Delete User Index,ユーザー索引を削除する
+DLTUSRPRF,Delete User Profile,ユーザー・プロファイルを削除する
+DLTUSRQ,Delete User Queue,ユーザー待ち行列を削除する
+DLTUSRSPC,Delete User Space,ユーザー・スペースを削除する
+DLTUSRTRC,Delete User Trace,ユーザー・トレースを削除する
+DLTVLDL,Delete Validation List,妥当性検査リストを削除する
+DLTWSCST,Delete Workstation Customizing Object,WSカスタマイズ・オブジェクトを削除する
+DLYJOB,Delay Job,ジョブを遅延させる
+DLYSRVAGTP,Delay SRVAGT Problem Reporting,SRVAGT問題報告を遅延させる
+DMP,Dump Object,オブジェクトをダンプする
+DMPBRM,Dump BRMS,BRMSをダンプする
+DMPCLPGM,Dump CL Program,CLプログラムをダンプする
+DMPCLUTRC,Dump Cluster Trace,クラスター・トレースをダンプする
+DMPCMNTRC,Dump Communications Trace,通信トレースをダンプする
+DMPDLO,Dump Document Library Object,文書ライブラリー・オブジェクトをダンプする
+DMPDNSJRNF,Dump Domain Name System Journal File,DNSジャーナル・ファイルをダンプする
+DMPJOB,Dump Job,ジョブをダンプする
+DMPJOBINT,Dump Job Internal,ジョブ内部をダンプする
+DMPMEMINF,Dump Main Memory Information,主記憶情報をダンプする
+DMPOBJ,Dump Object,オブジェクトをダンプする
+DMPSYSOBJ,Dump System Object,システム・オブジェクトをダンプする
+DMPTAP,Dump Tape,磁気テープをダンプする
+DMPTRC,Dump Trace,トレースをダンプする
+DMPUSRPRF,Dump User Profile,ユーザー・プロファイルをダンプする
+DMPUSRTRC,Dump User Trace,ユーザー・トレースをダンプする
+DSCJOB,Disconnect Job,ジョブを切断する
+DSPACC,Display Access Code,アクセス・コードを表示する
+DSPACCAUT,Display Access Code Authority,アクセス・コード権限を表示する
+DSPACTPJ,Display Active Prestart Jobs,活動事前開始ジョブを表示する
+DSPACTPRFL,Display Active Profile List,活動プロファイル・リストを表示する
+DSPACTSCD,Display Activation Schedule,活動化スケジュールを表示する
+DSPAPPNINF,Display APPN Information,APPN情報を表示する
+DSPASPBRM,Display Auxiliary Storage Pool Information,ASP情報を表示する
+DSPASPCPYD,Display ASP Copy Description,ASPコピー記述を表示する
+DSPASPINF,Display ASP Information,ASP情報を表示する
+DSPASPSSN,Display ASP Session,ASPセッションを表示する
+DSPASPSTS,Display Auxiliary Storage Pool Status,ASP状況を表示する
+DSPATR,Display Attributes,属性を表示する
+DSPAUDJRNE,Display Audit Journal Entries,監査ジャーナル項目を表示する
+DSPAUT,Display Authority,権限を表示する
+DSPAUTHLR,Display Authority Holder,権限ホルダーを表示する
+DSPAUTL,Display Authorization List,権限リストを表示する
+DSPAUTLDLO,Display Auth List Document Library Objects,権限リスト文書ライブラリー・オブジェクトを表示する
+DSPAUTLOBJ,Display Authorization List Object,権限リスト・オブジェクトを表示する
+DSPAUTUSR,Display Authorized Users,権限付与済みユーザーを表示する
+DSPBCKSTS,Display Backup Status,バックアップ状況を表示する
+DSPBCKUP,Display Backup Options,バックアップ・オプションを表示する
+DSPBCKUPL,Display Backup List,バックアップ・リストを表示する
+DSPBKP,Display Breakpoints,ブレークポイントを表示する
+DSPBKUBRM,Display Backup Plan using BRMS,BRMSを使用してバックアップ計画を表示する
+DSPBNDDIR,Display Binding Directory,バインド・ディレクトリーを表示する
+DSPCDEFNT,Display Coded Font,コード化フォントを表示する
+DSPCFGL,Display Configuration List,構成リストを表示する
+DSPCKMKSFE,Display Crytographic Key Management Keystore File Entry,暗号鍵管理キーストア・ファイル項目を表示する
+DSPCLS,Display Class,クラスを表示する
+DSPCLUINF,Display Cluster Information,クラスター情報を表示する
+DSPCMD,Display Command,コマンドを表示する
+DSPCNNL,Display Connection List,接続リストを表示する
+DSPCNNSTS,Display Connection Status,接続状況を表示する
+DSPCOSD,Display Class-of-Service Description,サービス・クラス記述を表示する
+DSPCPCST,Display Check Pending Constraint,検査保留制約を表示する
+DSPCRGACT,Display CRG Activity,CRG活動を表示する
+DSPCRGCNR,Display CRG Container,CRGコンテナーを表示する
+DSPCRGINF,Display Cluster Resource Group Information,CRG情報を表示する
+DSPCSI,Display Communications Side Information,通信サイド情報を表示する
+DSPCSMSSN,Display CSM ASP Session,CSM ASPセッションを表示する
+DSPCTLD,Display Controller Description,コントローラー記述を表示する
+DSPCURDIR,Display Current Directory,現行ディレクトリーを表示する
+DSPDBG,Display Debug,デバッグを表示する
+DSPDBGWCH,Display Debug Watch,デバッグ監視を表示する
+DSPDBR,Display Data Base Relations,データベース関連を表示する
+DSPDDMF,Display Distributed Data Management File,DDMファイルを表示する
+DSPDEVD,Display Device Description,装置記述を表示する
+DSPDIRE,Display Directory Entries,ディレクトリー項目を表示する
+DSPDLFA,Display DataLink File Attributes,DataLinkファイル属性を表示する
+DSPDLOAUD,Display Document Library Object Auditing Level,文書ライブラリー・オブジェクト監査レベルを表示する
+DSPDLOAUT,Display Document Library Object Authority,文書ライブラリー・オブジェクト権限を表示する
+DSPDLONAM,Display Document Library Object Name,文書ライブラリー・オブジェクト名を表示する
+DSPDOC,Display Document,文書を表示する
+DSPDSTL,Display Distribution List,配布リストを表示する
+DSPDSTLOG,Display Distribution Log,配布ログを表示する
+DSPDSTSRV,Display Distribution Services,配布サービスを表示する
+DSPDTA,Display Data,データを表示する
+DSPDTAARA,Display Data Area,データ域を表示する
+DSPDTADCT,Display Data Dictionary,データ・ディクショナリーを表示する
+DSPDUPBRM,Display Duplicate Media,重複媒体を表示する
+DSPEDTD,Display Edit Description,編集記述を表示する
+DSPEWCBCDE,Display Wireless Controller Barcode Entry,無線コントローラー・バーコード項目を表示する
+DSPEWCM,Display Wireless Controller Member,無線コントローラー・メンバーを表示する
+DSPEWCPTCE,Display Wireless Controller PTC Entry,無線コントローラーPTC項目を表示する
+DSPEWLM,Display Wireless Line Member,無線回線メンバーを表示する
+DSPEXPSCD,Display Expiration Schedule,有効期限切れスケジュールを表示する
+DSPF,Display File,ファイルを表示する
+DSPFCNBRM,Display Function using BRM,BRMを使用して機能を表示する
+DSPFCNUSG,Display Function Usage,機能使用法を表示する
+DSPFD,Display File Description,ファイル記述を表示する
+DSPFFD,Display File Field Description,ファイル・フィールド記述を表示する
+DSPFLR,Display Folder,フォルダーを表示する
+DSPFMWSTS,Display Firmware Status,ファームウェア状況を表示する
+DSPFNTRSCA,Display Font Resource Attributes,フォント・リソース属性を表示する
+DSPFNTTBL,Display Font Table,フォント・テーブルを表示する
+DSPHACFGD,Display HA Configuration Description,HA構成記述を表示する
+DSPHAPCY,Display High Availability Policy,高可用性ポリシーを表示する
+DSPHDWRSC,Display Hardware Resources,ハードウェア資源を表示する
+DSPHFS,Display Hierarchical File Sys.,階層ファイル・システムを表示する
+DSPHLPDOC,Display Help Document,ヘルプ文書を表示する
+DSPHOSTSVR,Display Host Server,ホスト・サーバーを表示する
+DSPHSTGPH,Display Historical Graph,ヒストリカル・グラフを表示する
+DSPHSTJS,Display History using Advanced Job Scheduler,AJSを使用してヒストリーを表示する
+DSPHYSSTS,Display HyperSwap Status,HyperSwap状況を表示する
+DSPIGCDCT,Display DBCS Conversion Dictionary,DBCS変換ディクショナリーを表示する
+DSPIPLA,Display IPL Attributes,IPL属性を表示する
+DSPIPXD,Display IPX Description,IPX記述を表示する
+DSPJOB,Display Job,ジョブを表示する
+DSPJOBD,Display Job Description,ジョブ記述を表示する
+DSPJOBJS,Display Job using Advanced Job Scheduler,AJSを使用してジョブを表示する
+DSPJOBLOG,Display Job Log,ジョブ・ログを表示する
+DSPJOBTBL,Display Job Tables,ジョブ・テーブルを表示する
+DSPJRN,Display Journal,ジャーナルを表示する
+DSPJRNRCVA,Display Journal Receiver Attributes,ジャーナル・レシーバー属性を表示する
+DSPJVMJOB,Display Java Virtual Machine Jobs,JVMジョブを表示する
+DSPKBDMAP,Display Keyboard Map,キーボード・マップを表示する
+DSPKRBCCF,Display Kerberos Credentials Cache File,Kerberos資格情報キャッシュ・ファイルを表示する
+DSPKRBKTE,Display Kerberos Keytab Entries,Kerberosキータブ項目を表示する
+DSPLANADPP,Display LAN Adapter Profile,LANアダプター・プロファイルを表示する
+DSPLANMLB,Display LAN Media Library,LAN媒体ライブラリーを表示する
+DSPLANSTS,Display LAN Status,LAN状況を表示する
+DSPLIB,Display Library,ライブラリーを表示する
+DSPLIBD,Display Library Description,ライブラリー記述を表示する
+DSPLIBL,Display Library List,ライブラリー・リストを表示する
+DSPLICKEY,Display License Key Information,ライセンス・キー情報を表示する
+DSPLIND,Display Line Description,回線記述を表示する
+DSPLNK,Display Object Links,オブジェクト・リンクを表示する
+DSPLOG,Display Log,ログを表示する
+DSPLOGBRM,Display Log for BRMS,BRMSのログを表示する
+DSPLOGJS,Display Log for Job Scheduler,ジョブ・スケジューラーのログを表示する
+DSPMFSINF,Display Mounted File System Information,マウント・ファイル・システム情報を表示する
+DSPMNUA,Display Menu Attributes,メニュー属性を表示する
+DSPMOD,Display Module,モジュールを表示する
+DSPMODD,Display Mode Description,モード記述を表示する
+DSPMODSRC,Display Module Source,モジュール・ソースを表示する
+DSPMODSTS,Display Mode Status,モード状況を表示する
+DSPMSG,Display Messages,メッセージを表示する
+DSPMSGD,Display Message Description,メッセージ記述を表示する
+DSPNCK,Display Nickname,ニックネームを表示する
+DSPNETA,Display Network Attributes,ネットワーク属性を表示する
+DSPNODGRP,Display Node Group,ノード・グループを表示する
+DSPNTBD,Display NetBIOS Description,NetBIOS記述を表示する
+DSPNWID,Display Network Interface Description,ネットワーク・インターフェース記述を表示する
+DSPNWSA,Display Network Server Attributes,ネットワーク・サーバー属性を表示する
+DSPNWSCFG,Display Network Server Configuration,ネットワーク・サーバー構成を表示する
+DSPNWSD,Display Network Server Description,ネットワーク・サーバー記述を表示する
+DSPNWSSTG,Display Network Server Storage Space,ネットワーク・サーバー記憶スペースを表示する
+DSPNWSUSRA,Display Network Server User Attributes,ネットワーク・サーバー・ユーザー属性を表示する
+DSPOBJAUT,Display Object Authority,オブジェクト権限を表示する
+DSPOBJD,Display Object Description,オブジェクト記述を表示する
+DSPOPT,Display Optical,光ディスクを表示する
+DSPOPTLCK,Display Optical Locks,光ディスク・ロックを表示する
+DSPOPTSVR,Display Optical Server,光ディスク・サーバーを表示する
+DSPOSPF,Display OSPF,OSPFを表示する
+DSPOVR,Display Override,指定変更を表示する
+DSPPDFMAPE,Display PDF Map Entries,PDFマップ項目を表示する
+DSPPDGPRF,Display Print Descriptor Group Profile,印刷記述子グループ・プロファイルを表示する
+DSPPFM,Display Physical File Member,物理ファイル・メンバーを表示する
+DSPPFRDTA,Display Performance Data,パフォーマンス・データを表示する
+DSPPFRGPH,Display Performance Graph,パフォーマンス・グラフを表示する
+DSPPGM,Display Program,プログラムを表示する
+DSPPGMADP,Display Program Adopt,プログラム導入を表示する
+DSPPGMREF,Display Program References,プログラム参照を表示する
+DSPPGMVAR,Display Program Variable,プログラム変数を表示する
+DSPPRB,Display Problems,問題を表示する
+DSPPSFCFG,Display Print Services Facility Configuration,PSF構成を表示する
+DSPPTF,Display Program Temporary Fix,PTFを表示する
+DSPPTFAPYI,Display PTF Apply Information,PTF適用情報を表示する
+DSPPTFCVR,Display Program Temporary Fix Cover Letter,PTFカバー・レターを表示する
+DSPPTFGRP,Display PTF Group,PTFグループを表示する
+DSPPWRSCD,Display Power On/Off Schedule,電源オン/オフ・スケジュールを表示する
+DSPRCDLCK,Display Record Locks,レコード・ロックを表示する
+DSPRCYAP,Display Recovery for Access Paths,アクセス・パスの回復を表示する
+DSPRDBDIRE,Display Relational Database Directory Entries,RDBディレクトリー項目を表示する
+DSPRIP,Display Routing Information Protocol Information,RIP情報を表示する
+DSPRMTDFN,Display Remote Definition,リモート定義を表示する
+DSPRSCLOND,Display Resource List for OnDemand,OnDemandの資源リストを表示する
+DSPS36,Display S/36 Configuration,S/36構成を表示する
+DSPSAVF,Display Save File,保管ファイルを表示する
+DSPSBSD,Display Subsystem Description,サブシステム記述を表示する
+DSPSDSTL,Display SMTP Dist List,SMTP配布リストを表示する
+DSPSECA,Display Security Attributes,機密保護属性を表示する
+DSPSECAUD,Display Security Auditing,機密保護監査を表示する
+DSPSFWRSC,Display Software Resources,ソフトウェア資源を表示する
+DSPSOCSTS,Display Sphere of Control Status,制御範囲状況を表示する
+DSPSPLF,Display Spooled File,スプール・ファイルを表示する
+DSPSRVA,Display Service Attributes,サービス属性を表示する
+DSPSRVAGT,Display Service Agent,サービス・エージェントを表示する
+DSPSRVPGM,Display Service Program,サービス・プログラムを表示する
+DSPSRVSTS,Display Service Status,サービス状況を表示する
+DSPSSTSECA,Display SST Security Attrs,SST機密保護属性を表示する
+DSPSSTUSR,Display Service Tools User ID,保守ツール・ユーザーIDを表示する
+DSPSVCCPYD,Display SAN Volume Controller ASP Copy Description,SVC ASPコピー記述を表示する
+DSPSVCSSN,Display SAN Volume Controller ASP Session,SVC ASPセッションを表示する
+DSPSVRAUTE,Display Server Authentication Entries,サーバー権限項目を表示する
+DSPSYSSTS,Display System Status,システム状況を表示する
+DSPSYSVAL,Display System Value,システム値を表示する
+DSPTAP,Display Tape,磁気テープを表示する
+DSPTAPCGY,Display Tape Category,磁気テープ・カテゴリーを表示する
+DSPTAPCTG,Display Tape Cartridge,磁気テープ・カートリッジを表示する
+DSPTAPSTS,Display Tape Status,磁気テープ状況を表示する
+DSPTM,Display Trademarks,商標を表示する
+DSPTRC,Display Trace,トレースを表示する
+DSPTRCDTA,Display Trace Data,トレース・データを表示する
+DSPUDFS,Display User-Defined File System,ユーザー定義ファイル・システムを表示する
+DSPUSGINF,Display Partition Usage Info,区画使用情報を表示する
+DSPUSRPMN,Display User Permission,ユーザー許可を表示する
+DSPUSRPRF,Display User Profile,ユーザー・プロファイルを表示する
+DSPUSRPRTI,Display User Print Information,ユーザー印刷情報を表示する
+DSPVTMAP,Display VT Keyboard Map,VTキーボード・マップを表示する
+DSPWLCGRP,Display Workload Group,作業負荷グループを表示する
+DSPWSUSR,Display Work Station User,ワークステーション・ユーザーを表示する
+DUPMEDBRM,Duplicate Media using BRMS,BRMSを使用して媒体を複写する
+DUPOPT,Duplicate Optical,光ディスクを複写する
+DUPTAP,Duplicate Tape,磁気テープを複写する
+EDTAUTL,Edit Authorization List,権限リストを編集する
+EDTBCKUPL,Edit Backup List,バックアップ・リストを編集する
+EDTCPCST,Edit Check Pending Constraints,検査保留制約を編集する
+EDTDLFA,Edit DataLink File Attributes,DataLinkファイル属性を編集する
+EDTDLOAUT,Edit Document Library Object Authority,文書ライブラリー・オブジェクト権限を編集する
+EDTDOC,Edit Document,文書を編集する
+EDTF,Edit File,ファイルを編集する
+EDTIGCDCT,Edit DBCS Conversion Dictionary,DBCS変換ディクショナリーを編集する
+EDTLIBL,Edit Library List,ライブラリー・リストを編集する
+EDTOBJAUT,Edit Object Authority,オブジェクト権限を編集する
+EDTQST,Edit Questions and Answers,Q/Aを編集する
+EDTRBDAP,Edit Rebuild of Access Paths,アクセス・パスの再作成を編集する
+EDTRCYAP,Edit Recovery for Access Paths,アクセス・パスの回復を編集する
+EDTS36PGMA,Edit S/36 Program Attributes,S/36プログラム属性を編集する
+EDTS36PRCA,Edit S/36 Procedure Attributes,S/36プロシージャー属性を編集する
+EDTS36SRCA,Edit S/36 Source Attributes,S/36ソース属性を編集する
+EDTWSOAUT,Edit Workstation Object Authority,ワークステーション・オブジェクト権限を編集する
+EJTEMLOUT,Eject Emulation Output,エミュレーション出力を排出する
+EMLPRTKEY,Emulate Printer Keys,印刷装置キーをエミュレートする
+ENDACCWEB,End Access for Web,Webアクセスを終了する
+ENDACCWEB2,End Access for Web,Webアクセスを終了する (2)
+ENDAGTSRV,End Agent Services,エージェント・サービスを終了する
+ENDASPBAL,End Auxiliary Storage Pool Balance,ASPバランスを終了する
+ENDASPSSN,End ASP Session,ASPセッションを終了する
+ENDAUTCOL,End Authority Collection,権限収集を終了する
+ENDBCHJOB,End Batch Job,バッチ・ジョブを終了する
+ENDCAD,End Cluster Administrative Domain,クラスター管理ドメインを終了する
+ENDCBLDBG,End COBOL Debug,COBOLデバッグを終了する
+ENDCHTSVR,End Clustered Hash Table Server,クラスター化ハッシュ・テーブル・サーバーを終了する
+ENDCLNUP,End Cleanup,クリーンアップを終了する
+ENDCLUNOD,End Cluster Node,クラスター・ノードを終了する
+ENDCMNSVR,End Communications Server,通信サーバーを終了する
+ENDCMNTRC,End Communications Trace,通信トレースを終了する
+ENDCMTCTL,End Commitment Control,コミットメント制御を終了する
+ENDCPYSCN,End Copy Screen,画面コピーを終了する
+ENDCRG,End Cluster Resource Group,クラスター・リソース・グループを終了する
+ENDCRGCNR,End CRG Container,CRGコンテナーを終了する
+ENDCSMSSN,End CSM ASP Session,CSM ASPセッションを終了する
+ENDCTLRCY,End Controller Recovery,コントローラー回復を終了する
+ENDDBG,End Debug Mode,デバッグ・モードを終了する
+ENDDBGSVR,End Debug Server,デバッグ・サーバーを終了する
+ENDDBMON,End Database Monitor,データベース・モニターを終了する
+ENDDEVRCY,End Device Recovery,装置回復を終了する
+ENDDIRSHD,End Directory Shadowing,ディレクトリー・シャドーイングを終了する
+ENDDPRAPY,End DataPropagator Apply,DataPropagator適用を終了する
+ENDDPRCAP,End DataPropagator Capture,DataPropagatorキャプチャーを終了する
+ENDDSKRGZ,End Disk Reorganization,ディスク再編成を終了する
+ENDDW,End Disk Watcher,ディスク監視機能を終了する
+ENDEPMENV,End EPM Environments,EPM環境を終了する
+ENDFNTDWN,End Font Downloader,フォント・ダウンローダーを終了する
+ENDGRPJOB,End Group Job,グループ・ジョブを終了する
+ENDHOSTSVR,End Host Server,ホスト・サーバーを終了する
+ENDINP,End Input,入力を終了する
+ENDISDB,End Interactive Source Debugger,対話式ソース・デバッガーを終了する
+ENDJOB,End Job,ジョブを終了する
+ENDJOBABN,End Job Abnormal,ジョブを異常終了させる
+ENDJOBTRC,End Job Trace,ジョブ・トレースを終了する
+ENDJRN,End Journal,ジャーナル処理を終了する
+ENDJRNAP,End Journal Access Path,ジャーナル・アクセス・パスを終了する
+ENDJRNLIB,End Journal Library,ジャーナル・ライブラリーを終了する
+ENDJRNOBJ,End Journal Object,ジャーナル・オブジェクトを終了する
+ENDJRNPF,End Journal Physical File,ジャーナル物理ファイルを終了する
+ENDJS,End Advanced Job Scheduler,AJSを終了する
+ENDJW,End Job Watcher,ジョブ監視機能を終了する
+ENDLINRCY,End Line Recovery,回線回復を終了する
+ENDLOGSVR,End Job Log Server,ジョブ・ログ・サーバーを終了する
+ENDMOD,End Mode,モードを終了する
+ENDMONOND,End Monitor,モニターを終了する
+ENDMSF,End Mail Server Framework,メール・サーバー・フレームワークを終了する
+ENDNFSSVR,End Network File System Server,NFSサーバーを終了する
+ENDPASTHR,End Pass-Through,パススルーを終了する
+ENDPEX,End Performance Explorer,PEXを終了する
+ENDPFRCOL,End Performance Collection,パフォーマンス収集を終了する
+ENDPFRTRC,End Performance Trace,パフォーマンス・トレースを終了する
+ENDPGMEXP,End Program Export List,プログラム・エクスポート・リストを終了する
+ENDPGMPRF,End Program Profiling,プログラム・プロファイル作成を終了する
+ENDPJ,End Prestart Jobs,事前開始ジョブを終了する
+ENDPRTEML,End Printer Emulation,印刷装置エミュレーションを終了する
+ENDRCV,End Receive,受信を終了する
+ENDRDR,End Reader,読み取りプログラムを終了する
+ENDRMTSPT,End Remote Support,リモート・サポートを終了する
+ENDRPCBIND,End Remote Procedure Call Binder Daemon,RPCバインダー・デーモンを終了する
+ENDRQS,End Request,要求を終了する
+ENDS36,End S/36 Session,S/36セッションを終了する
+ENDSAVSYNC,End Save Synchronization,保管同期を終了する
+ENDSBS,End Subsystem,サブシステムを終了する
+ENDSRVAGT,End Service Agent,サービス・エージェントを終了する
+ENDSRVJOB,End Service Job,サービス・ジョブを終了する
+ENDSVCSSN,End SAN Volume Controller ASP Session,SVC ASPセッションを終了する
+ENDSYS,End System,システムを終了する
+ENDTCP,End TCP/IP,TCP/IPを終了する
+ENDTCPABN,End TCP/IP Abnormal,TCP/IPを異常終了させる
+ENDTCPCNN,End TCP/IP Connection,TCP/IP接続を終了する
+ENDTCPIFC,End TCP/IP Interface,TCP/IPインターフェースを終了する
+ENDTCPSVR,End TCP/IP Server,TCP/IPサーバーを終了する
+ENDTFMMGR,End Transform Manager,変換マネージャーを終了する
+ENDTIESSN,End TIE Session,TIEセッションを終了する
+ENDTRC,End Trace,トレースを終了する
+ENDTRKJOBQ,End Tracking Job Queue,ジョブ待ち行列の追跡を終了する
+ENDTRPMGR,End Trap Manager,トラップ・マネージャーを終了する
+ENDVPNCNN,End VPN Connection,VPN接続を終了する
+ENDWCH,End Watch,監視を終了する
+ENDWTR,End Writer,書き出しプログラムを終了する
+ERASE,Remove Link,リンクを除去する
+EXPORT,Export a Program Symbol,プログラム記号をエクスポートする
+EXPORTFS,Change Network File System Export,NFSエクスポートを変更する
+EXTMEDIBRM,Extract Media Information,媒体情報を抽出する
+EXTPGMINF,Extract Program Information,プログラム情報を抽出する
+FILDOC,File Document,文書をファイルする
+FMTDTA,Format Data,データをフォーマットする
+FNDKEYOND,Find Key,キーを検索する
+FNDSTRPDM,Find String using Programming Development Manager,PDMを使用してストリングを検索する
+FNDSTRPDM2,Find String with List using Programming Development Manager,PDMを使用してリスト付きでストリングを検索する
+FTP,Start TCP/IP File Transfer,TCP/IPファイル転送を開始する
+GENCAT,Generate Message Catalog,メッセージ・カタログを生成する
+GENCKMKSFE,Generate Crytographic Key Management Keystore File Entry,暗号鍵管理キーストア・ファイル項目を生成する
+GENCMDDOC,Generate Command Documentation,コマンド資料を生成する
+GENCSRC,Generate C/C++ Source,C/C++ソースを生成する
+GENDNSDSRR,Generate Domain Name System Delgation Signer Resource Record,DNS DSリソース・レコードを生成する
+GENDNSKEY,Generate Domain Name System Key,DNSキーを生成する
+GENJVMDMP,Generate Java Virtual Machine Dump,JVMダンプを生成する
+GENLICKEY,Generate License Key,ライセンス・キーを生成する
+GO,Go to Menu,メニューへ進む
+GRTACCAUT,Grant Access Code Authority,アクセス・コード権限を与える
+GRTDPRAUT,Grant DataPropagator Authority,DataPropagator権限を与える
+GRTOBJAUT,Grant Object Authority,オブジェクト権限を与える
+GRTUSRAUT,Grant User Authority,ユーザー権限を与える
+GRTUSRPMN,Grant User Permission,ユーザー許可を与える
+GRTWSOAUT,Grant Workstation Object Authority,ワークステーション・オブジェクト権限を与える
+HLDCMNDEV,Hold Communications Device,通信装置を保留する
+HLDDSTQ,Hold Distribution Queue,配布待ち行列を保留する
+HLDJOB,Hold Job,ジョブを保留する
+HLDJOBJS,Hold Job using Advanced Job Scheduler,AJSを使用してジョブを保留する
+HLDJOBQ,Hold Job Queue,ジョブ待ち行列を保留する
+HLDJOBSCDE,Hold Job Schedule Entry,ジョブ・スケジュール項目を保留する
+HLDOUTQ,Hold Output Queue,出力待ち行列を保留する
+HLDPTF,Hold Program Temporary Fix,PTFを保留する
+HLDRDR,Hold Reader,読み取りプログラムを保留する
+HLDSPLF,Hold Spooled File,スプール・ファイルを保留する
+HLDWTR,Hold Writer,書き出しプログラムを保留する
+HOST,Start HOST Query,HOST照会を開始する
+INSPTF,Install Program Temporary Fix,PTFを導入する
+INZBRM,Initialize BRMS,BRMSを初期設定する
+INZDLFM,Initialize DataLink File Manager,DataLinkファイル・マネージャーを初期設定する
+INZDPRCAP,Initialize DataPropagator Capture,DataPropagatorキャプチャーを初期設定する
+INZDSTQ,Initialize Distribution Queue,配布待ち行列を初期設定する
+INZMEDBRM,Initialize Media using BRMS,BRMSを使用して媒体を初期設定する
+INZNWSCFG,Initialize Network Server Configuration,ネットワーク・サーバー構成を初期設定する
+INZOPT,Initialize Optical,光ディスクを初期設定する
+INZPCS,Initialize IBM i Access,IBM i Accessを初期設定する
+INZPFM,Initialize Physical File Member,物理ファイル・メンバーを初期設定する
+INZSYS,Initialize System,システムを初期設定する
+INZTAP,Initialize Tape,磁気テープを初期設定する
+JAVA,Run Java Program,Javaプログラムを実行する
+LDIF2DB,Copy From LDIF File,LDIFファイルからコピーする
+LNKDTADFN,Link/Unlink Data Definition,データ定義をリンク/アンリンクする
+LODIMGCLG,Load or Unload Image Catalog,イメージ・カタログをロード/アンロードする
+LODIMGCLGE,Load/Unload/Mount Image Catalog Entry,イメージ・カタログ項目をロード/アンロード/マウントする
+LODIPFTR,Load/Unload IP Filter,IPフィルターをロード/アンロードする
+LODOPTFMW,Load Optical Firmware,光ディスク・ファームウェアをロードする
+LODPTF,Load Program Temporary Fix,PTFをロードする
+LODQSTDB,Load Question/Answer Database,Q/Aデータベースをロードする
+LODRUN,Load and Run,ロードして実行する
+LPR,Send TCP/IP Spooled File,TCP/IPスプール・ファイルを送信する
+MD,Create Directory,ディレクトリーを作成する
+MGRBRM,Migrate using BRMS,BRMSを使用してマイグレーションを行う
+MKDIR,Create Directory,ディレクトリーを作成する
+MONSWABRM,Monitor Save While Active,活動時保管をモニターする
+MOUNT,Add Mounted File System,マウント・ファイル・システムを追加する
+MOV,Move Object,オブジェクトを移動する
+MOVDOC,Move Document,文書を移動する
+MOVE,Move Object,オブジェクトを移動する
+MOVMEDBRM,Move Media using BRMS,BRMSを使用して媒体を移動する
+MOVOBJ,Move Object,オブジェクトを移動する
+MOVPFRCOL,Move Performance Collection,パフォーマンス収集を移動する
+MOVSPLFBRM,Move Spooled Files using BRMS,BRMSを使用してスプール・ファイルを移動する
+MRGMSGCLG,Merge Message Catalog,メッセージ・カタログをマージする
+MRGMSGF,Merge Message File,メッセージ・ファイルをマージする
+MRGSPLFOND,Merge Spooled Files,スプール・ファイルをマージする
+MRGTCPHT,Merge TCP/IP Host Table,TCP/IPホスト・テーブルをマージする
+NDPING,Send Neighbor Solicitation,近隣要請を送信する
+NETSTAT,Work with TCP/IP Network Status,TCP/IPネットワーク状況を処理する
+NSLOOKUP,Start NSLOOKUP Query,NSLOOKUP照会を開始する
+NSUPDATE,Run Domain Name System Update,DNS更新を実行する
+OPNDBF,Open Data Base File,データベース・ファイルを開く
+OPNQRYF,Open Query File,Queryファイルを開く
+OVRDBF,Override with Data Base File,データベース・ファイルで指定変更する
+OVRDSPF,Override with Display File,表示ファイルで指定変更する
+OVRICFDEVE,Override Intersystem Communications Function Program Device Entry,ICFプログラム装置項目を指定変更する
+OVRICFF,Override Intersystem Communications Function File,ICFファイルを指定変更する
+OVRMSGF,Override Message File,メッセージ・ファイルを指定変更する
+OVRPRTF,Override with Printer File,印刷装置ファイルで指定変更する
+OVRSAVF,Override with Save File,保管ファイルで指定変更する
+OVRTAPF,Override with Tape File,磁気テープ・ファイルで指定変更する
+PING,Verify TCP/IP Connection,TCP/IP接続を検査する
+PKGPRDOPT,Package Product Option,プロダクト・オプションをパッケージ化する
+POSDBF,Position Data Base File,データベース・ファイルを位置付ける
+PRTACTRPT,Print Activity Report,活動報告書を印刷する
+PRTADPOBJ,Print Adopting Objects,採用オブジェクトを印刷する
+PRTAFPDTA,Print Advanced Function Printer Data,AFPデータを印刷する
+PRTCADMRE,Print Cluster Administrative Domain Managed Resource Entry,クラスター管理ドメイン管理リソース項目を印刷する
+PRTCMDUSG,Print Command Usage,コマンド使用法を印刷する
+PRTCMNSEC,Print Communications Security,通信機密保護を印刷する
+PRTCMNTRC,Print Communications Trace,通信トレースを印刷する
+PRTCPTRPT,Print Component Report,コンポーネント報告書を印刷する
+PRTDEVADR,Print Device Addresses,装置アドレスを印刷する
+PRTDIRINF,Print Directory Information,ディレクトリー情報を印刷する
+PRTDOC,Print Document,文書を印刷する
+PRTDOCOND,Print Document,文書を印刷する
+PRTDSKINF,Print Disk Information,ディスク情報を印刷する
+PRTERRLOG,Print Error Log,エラー・ログを印刷する
+PRTINTDTA,Print Internal Data,内部データを印刷する
+PRTJOBDAUT,Print Job Description Authority,ジョブ記述権限を印刷する
+PRTJOBRPT,Print Job Interval Report,ジョブ間隔報告書を印刷する
+PRTJOBTRC,Print Job Trace,ジョブ・トレースを印刷する
+PRTJVMJOB,Print Java Virtual Machine Job,JVMジョブを印刷する
+PRTLBLBRM,Print Labels using BRMS,BRMSを使用してラベルを印刷する
+PRTLCKRPT,Print Lock Report,ロック報告書を印刷する
+PRTMEDBRM,Print Media Exceptions for BRMS,BRMSの媒体例外を印刷する
+PRTMOVBRM,Print Media Movement,媒体移動を印刷する
+PRTPEXRPT,Print Performance Explorer Report,PEX報告書を印刷する
+PRTPFDDTA,Print PFD Data,PFDデータを印刷する
+PRTPOLRPT,Print Pool Report,プール報告書を印刷する
+PRTPRFINT,Print Profile Internals,プロファイル内部を印刷する
+PRTPUBAUT,Print Publicly Authorized Objects,パブリック権限オブジェクトを印刷する
+PRTPVTAUT,Print Private Authorities,プライベート権限を印刷する
+PRTQAUT,Print Queue Authority,待ち行列権限を印刷する
+PRTRPTBRM,Print Report for BRMS,BRMSの報告書を印刷する
+PRTRPTOND,Print Report,レポートを印刷する
+PRTRSCRPT,Print Resource Report,資源報告書を印刷する
+PRTSBSDAUT,Print Subsystem Description,サブシステム記述を印刷する
+PRTSCDJS,Print Schedule using Advanced Job Scheduler,AJSを使用してスケジュールを印刷する
+PRTSQLINF,Print SQL Information,SQL情報を印刷する
+PRTSWL,Print Stop Word List,ストップワード・リストを印刷する
+PRTSYSINF,Print System Information,システム情報を印刷する
+PRTSYSRPT,Print System Report,システム報告書を印刷する
+PRTSYSSECA,Print System Security Attributes,システム機密保護属性を印刷する
+PRTTNSRPT,Print Transaction Report,トランザクション報告書を印刷する
+PRTTRC,Print Trace Data,トレース・データを印刷する
+PRTTRCRPT,Print Job Trace Report,ジョブ・トレース報告書を印刷する
+PRTTRGPGM,Print Trigger Programs,トリガー・プログラムを印刷する
+PRTTXTOND,Print Text,テキストを印刷する
+PRTUSROBJ,Print User Objects,ユーザー・オブジェクトを印刷する
+PRTUSRPRF,Print User Profile,ユーザー・プロファイルを印刷する
+PWRDWNSYS,Power Down System,システムの電源を遮断する
+QRYDOCLIB,Query Document Library,文書ライブラリーを照会する
+QRYDOCOND,Query Document,文書を照会する
+QRYDST,Query Distributions,配布を照会する
+QRYPRBSTS,Query Problem Status,問題状況を照会する
+QRYTIEF,Query TIE Files,TIEファイルを照会する
+QSH,Start QSH,QSHを開始する
+RCLACTGRP,Reclaim Activation Group,活動化グループを再利用する
+RCLAPPN,Reclaim APPN,APPNを再利用する
+RCLDBXREF,Reclaim Database Cross-Reference,データベース相互参照を再利用する
+RCLDDMCNV,Reclaim Distributed Data Management Conversations,DDM会話を再利用する
+RCLDLO,Reclaim Document Library Object,文書ライブラリー・オブジェクトを再利用する
+RCLLIB,Reclaim Library,ライブラリーを再利用する
+RCLLNK,Reclaim Object Links,オブジェクト・リンクを再利用する
+RCLOBJOWN,Reclaim Objects by Owner,所有者別にオブジェクトを再利用する
+RCLOPT,Reclaim Optical,光ディスクを再利用する
+RCLRSC,Reclaim Resources,資源を再利用する
+RCLSPLSTG,Reclaim Spool Storage,スプール記憶域を再利用する
+RCLSTG,Reclaim Storage,記憶域を再利用する
+RCLTMPSTG,Reclaim Temporary Storage,一時記憶域を再利用する
+RCVDST,Receive Distribution,配布を受信する
+RCVF,Receive File,ファイルを受信する
+RCVJRNE,Receive Journal Entry,ジャーナル項目を受信する
+RCVMSG,Receive Message,メッセージを受信する
+RCVNETF,Receive Network File,ネットワーク・ファイルを受信する
+RCVTIEF,Receive TIE File,TIEファイルを受信する
+RD,Remove Directory,ディレクトリーを除去する
+REN,Rename Object,オブジェクト名を変更する
+RGZDLO,Reorganize Document Library Object,文書ライブラリー・オブジェクトを再編成する
+RGZPFM,Reorganize Physical File Member,物理ファイル・メンバーを再編成する
+RLSCMNDEV,Release Communications Device,通信装置を解放する
+RLSDSTQ,Release Distribution Queue,配布待ち行列を解放する
+RLSIFSLCK,Release File System Locks,ファイル・システム・ロックを解放する
+RLSJOB,Release Job,ジョブを解放する
+RLSJOBJS,Release Job using Advanced Job Scheduler,AJSを使用してジョブを解放する
+RLSJOBQ,Release Job Queue,ジョブ待ち行列を解放する
+RLSJOBSCDE,Release Job Schedule Entry,ジョブ・スケジュール項目を解放する
+RLSOUTQ,Release Output Queue,出力待ち行列を解放する
+RLSPTF,Release Program Temporary Fix,PTFを解放する
+RLSRDR,Release Reader,読み取りプログラムを解放する
+RLSRMTPHS,Release Remote Phase,リモート・フェーズを解放する
+RLSSPLF,Release Spooled File,スプール・ファイルを解放する
+RLSWTR,Release Writer,書き出しプログラムを解放する
+RMDIR,Remove Directory,ディレクトリーを除去する
+RMVACC,Remove Access Code,アクセス・コードを除去する
+RMVACCWEB,Remove Access for Web,Webアクセスを除去する
+RMVACCWEB2,Remove Access for Web,Webアクセスを除去する (2)
+RMVAJE,Remove Autostart Job Entry,自動開始ジョブ項目を除去する
+RMVALRD,Remove Alert Description,アラート記述を除去する
+RMVASPCPYD,Remove ASP Copy Description,ASPコピー記述を除去する
+RMVAUTLE,Remove Authorization List Entry,権限リスト項目を除去する
+RMVBKP,Remove Breakpoint,ブレークポイントを除去する
+RMVBNDDIRE,Remove Binding Directory Entry,バインド・ディレクトリー項目を除去する
+RMVCADMRE,Remove Cluster Administrative Domain Managed Resource Entry,クラスター管理ドメイン管理リソース項目を除去する
+RMVCADNODE,Remove Cluster Administrative Domain Node Entry,クラスター管理ドメイン・ノード項目を除去する
+RMVCFGLE,Remove Configuration List Entries,構成リスト項目を除去する
+RMVCKMKSFE,Remove Crytographic Key Management Keystore File Entry,暗号鍵管理キーストア・ファイル項目を除去する
+RMVCLUMON,Remove Cluster Monitor,クラスター・モニターを除去する
+RMVCLUNODE,Remove Cluster Node Entry,クラスター・ノード項目を除去する
+RMVCMNE,Remove Communications Entry,通信項目を除去する
+RMVCOMSNMP,Remove Community for SNMP,SNMPコミュニティーを除去する
+RMVCRGDEVE,Remove Cluster Resource Group Device Entry,CRG装置項目を除去する
+RMVCRGNODE,Remove Cluster Resource Group Node Entry,CRGノード項目を除去する
+RMVDEVDMNE,Remove Device Domain Entry,装置ドメイン項目を除去する
+RMVDFRID,Remove Defer Identifier,据え置きIDを除去する
+RMVDIR,Remove Directory,ディレクトリーを除去する
+RMVDIRE,Remove Directory Entry,ディレクトリー項目を除去する
+RMVDIRINST,Remove Directory Server Instance,ディレクトリー・サーバー・インスタンスを除去する
+RMVDIRSHD,Remove Directory Shadow System,ディレクトリー・シャドー・システムを除去する
+RMVDLOAUT,Remove Document Library Object Authority,文書ライブラリー・オブジェクト権限を除去する
+RMVDPRREG,Remove DataPropagator Registration,DataPropagator登録を除去する
+RMVDPRSUB,Remove DataPropagator Subscription,DataPropagatorサブスクリプションを除去する
+RMVDPRSUBM,Remove DataPropagator Subscription Member,DataPropagatorサブスクリプション・メンバーを除去する
+RMVDSTLE,Remove Distribution List Entry,配布リスト項目を除去する
+RMVDSTQ,Remove Distribution Queue,配布待ち行列を除去する
+RMVDSTRTE,Remove Distribution Route,配布経路を除去する
+RMVDSTSYSN,Remove Secondary System Name,2次システム名を除去する
+RMVDWDFN,Remove Disk Watcher Definition,ディスク監視機能定義を除去する
+RMVEMLCFGE,Remove Configuration Entry,構成項目を除去する
+RMVENVVAR,Remove Environment Variable,環境変数を除去する
+RMVEWCBCDE,Remove Wireless Controller Barcode Entry,無線コントローラー・バーコード項目を除去する
+RMVEWCPTCE,Remove Wireless Controller PTC Entry,無線コントローラーPTC項目を除去する
+RMVEXITPGM,Remove Exit Program,出口プログラムを除去する
+RMVFNTTBLE,Remove Font Table Entry,フォント・テーブル項目を除去する
+RMVFTRACNE,Remove Filter Action Entry,フィルター処置項目を除去する
+RMVFTRSLTE,Remove Filter Selection Entry,フィルター選択項目を除去する
+RMVHACFGD,Remove HA Configuration Description,HA構成記述を除去する
+RMVHAPCY,Remove High Availability Policy,高可用性ポリシーを除去する
+RMVHSTJS,Remove History using Advanced Job Scheduler,AJSを使用してヒストリーを除去する
+RMVICFDEVE,Remove Intersystem Communications Function Device Entry,ICF装置項目を除去する
+RMVIMGCLGE,Remove Image Catalog Entry,イメージ・カタログ項目を除去する
+RMVJOBJS,Remove Job using Advanced Job Scheduler,AJSを使用してジョブを除去する
+RMVJOBQE,Remove Job Queue Entry,ジョブ待ち行列項目を除去する
+RMVJOBSCDE,Remove Job Schedule Entry,ジョブ・スケジュール項目を除去する
+RMVJRNCHG,Remove Journaled Changes,ジャーナル済み変更を除去する
+RMVJWDFN,Remove Job Watcher Definition,ジョブ監視機能定義を除去する
+RMVKRBKTE,Remove Kerberos Keytab Entry,Kerberosキータブ項目を除去する
+RMVLANADPI,Remove LAN Adapter Information,LANアダプター情報を除去する
+RMVLANADPT,Remove LAN Adapter,LANアダプターを除去する
+RMVLIBLE,Remove Library List Entry,ライブラリー・リスト項目を除去する
+RMVLICKEY,Remove License Key Information,ライセンス・キー情報を除去する
+RMVLNK,Remove Link,リンクを除去する
+RMVLOGEBRM,Remove Log Entries from BRMS,BRMSからログ項目を除去する
+RMVLOGEJS,Remove Log Entries from Job Scheduler,ジョブ・スケジューラーからログ項目を除去する
+RMVM,Remove Member,メンバーを除去する
+RMVMEDBRM,Remove Media Volumes from BRMS,BRMSから媒体ボリュームを除去する
+RMVMEDIBRM,Remove Media Information from BRMS,BRMSから媒体情報を除去する
+RMVMFS,Remove Mounted File System,マウント・ファイル・システムを除去する
+RMVMSG,Remove Message,メッセージを除去する
+RMVMSGD,Remove Message Description,メッセージ記述を除去する
+RMVNCK,Remove Nickname,ニックネームを除去する
+RMVNETJOBE,Remove Network Job Entry,ネットワーク・ジョブ項目を除去する
+RMVNETTBLE,Remove Network Table Entry,ネットワーク・テーブル項目を除去する
+RMVNODLE,Remove Node List Entry,ノード・リスト項目を除去する
+RMVNWSSTGL,Remove Server Storage Link,サーバー記憶域リンクを除去する
+RMVOPTCTG,Remove Optical Cartridge,光ディスク・カートリッジを除去する
+RMVOPTSVR,Remove Optical Server,光ディスク・サーバーを除去する
+RMVOSPFARA,Remove OSPF Area,OSPFエリアを除去する
+RMVOSPFIFC,Remove OSPF Interface,OSPFインターフェースを除去する
+RMVOSPFLNK,Remove OSPF Virtual Link,OSPF仮想リンクを除去する
+RMVOSPFRNG,Remove OSPF Range,OSPF範囲を除去する
+RMVPCLTBLE,Remove Protocol Table Entry,プロトコル・テーブル項目を除去する
+RMVPEXDFN,Remove Performance Explorer Definition,PEX定義を除去する
+RMVPEXFTR,Remove Performance Explorer Filter,PEXフィルターを除去する
+RMVPFCST,Remove Physical File Constraint,物理ファイル制約を除去する
+RMVPFTRG,Remove Physical File Trigger,物理ファイル・トリガーを除去する
+RMVPGM,Remove Program,プログラムを除去する
+RMVPJE,Remove Prestart Job Entry,事前開始ジョブ項目を除去する
+RMVPTF,Remove Program Temporary Fix,PTFを除去する
+RMVRDBDIRE,Remove Relational Database Directory Entry,RDBディレクトリー項目を除去する
+RMVREXBUF,Remove REXX Buffer,REXXバッファーを除去する
+RMVRIPACP,Remove Routing Information Protocol Accepted Route,RIP承認経路を除去する
+RMVRIPFLT,Remove Routing Information Protocol Filter,RIPフィルターを除去する
+RMVRIPIFC,Remove Routing Information Protocol Interface,RIPインターフェースを除去する
+RMVRIPIGN,Remove Ignored Routing Information Protocol Neighbor,無視RIP隣接ルーターを除去する
+RMVRMTDFN,Remove Remote Definition,リモート定義を除去する
+RMVRMTJRN,Remove Remote Journal,リモート・ジャーナルを除去する
+RMVRPTOND,Remove Report,レポートを除去する
+RMVRPYLE,Remove Reply List Entry,応答リスト項目を除去する
+RMVRTGE,Remove Routing Entry,ルーティング項目を除去する
+RMVSCHIDXE,Remove Search Index Entry,検索索引項目を除去する
+RMVSDSTLE,Remove SMTP Dist List Entry,SMTP配布リスト項目を除去する
+RMVSMTPLE,Remove SMTP List Entry,SMTPリスト項目を除去する
+RMVSMTPRLE,Remove Remote Login Entry,リモート・ログイン項目を除去する
+RMVSOCE,Remove Sphere of Control Entry,制御範囲項目を除去する
+RMVSRVTBLE,Remove Service Table Entry,サービス・テーブル項目を除去する
+RMVSVCCPYD,Remove SAN Volume Controller ASP Copy Description,SVC ASPコピー記述を除去する
+RMVSVRAUTE,Remove Server Authentication Entry,サーバー権限項目を除去する
+RMVTAPCTG,Remove Tape Cartridge,磁気テープ・カートリッジを除去する
+RMVTCPHTE,Remove TCP/IP Host Table Entry,TCP/IPホスト・テーブル項目を除去する
+RMVTCPIFC,Remove TCP/IP Interface,TCP/IPインターフェースを除去する
+RMVTCPPORT,Remove TCP/IP Port Restriction,TCP/IPポート制約を除去する
+RMVTCPRTE,Remove TCP/IP Route,TCP/IP経路を除去する
+RMVTCPSVR,Remove TCP/IP Server,TCP/IPサーバーを除去する
+RMVTCPTBL,Remove TCP/IP Table,TCP/IPテーブルを除去する
+RMVTRC,Remove Trace,トレースを除去する
+RMVTRCFTR,Remove Trace Filter,トレース・フィルターを除去する
+RMVUSRSMTP,Remove User SMTP,ユーザーSMTPを除去する
+RMVUSRSNMP,Remove User for SNMP,SNMPユーザーを除去する
+RMVVACSNMP,Remove VACM for SNMP,SNMPのVACMを除去する
+RMVWLCGRP,Remove Workload Group,作業負荷グループを除去する
+RMVWLCPRDE,Remove Workload Product Entry,作業負荷プロダクト項目を除去する
+RMVWSE,Remove Work Station Entry,ワークステーション項目を除去する
+RNDC,Run Remote Name Daemon Control Command,RNDCコマンドを実行する
+RNM,Rename Object,オブジェクト名を変更する
+RNMDIRE,Rename Directory Entry,ディレクトリー項目名を変更する
+RNMDLO,Rename Document Library Object,文書ライブラリー・オブジェクト名を変更する
+RNMDSTL,Rename Distribution List,配布リスト名を変更する
+RNMJOBJS,Rename Job using Advanced Job Scheduler,AJSを使用してジョブ名を変更する
+RNMLANADPI,Rename LAN Adapter,LANアダプター名を変更する
+RNMM,Rename Member,メンバー名を変更する
+RNMNCK,Rename Nickname,ニックネームを変更する
+RNMOBJ,Rename Object,オブジェクト名を変更する
+RNMSDSTL,Rename SMTP Dist List,SMTP配布リスト名を変更する
+RNMTCPHTE,Rename TCP/IP Host Table Entry,TCP/IPホスト・テーブル項目名を変更する
+ROLLBACK,Rollback,ロールバックする
+RPCBIND,Start Remote Procedure Call Binder Daemon,RPCバインダー・デーモンを開始する
+RPCGEN,Convert Remote Procedure Call Source,RPCソースを変換する
+RPLDOC,Replace Document,文書を置き換える
+RRTJOB,Reroute Job,ジョブを経路変更する
+RSMBKP,Resume Breakpoint,ブレークポイントを再開する
+RSMCTLRCY,Resume Controller Recovery,コントローラー回復を再開する
+RSMDEVRCY,Resume Device Recovery,装置回復を再開する
+RSMLINRCY,Resume Line Recovery,回線回復を再開する
+RSMRTVBRM,Resume Retrieve using BRMS,BRMSを使用して検索を再開する
+RST,Restore Object,オブジェクトを復元する
+RSTAPARDTA,Restore APAR Data,APARデータを復元する
+RSTAUT,Restore Authority,権限を復元する
+RSTAUTBRM,Restore Authority using BRMS,BRMSを使用して権限を復元する
+RSTBRM,Restore Object using BRMS,BRMSを使用してオブジェクトを復元する
+RSTCFG,Restore Configuration,構成を復元する
+RSTDFROBJ,Restore Deferred Objects,据え置きオブジェクトを復元する
+RSTDLO,Restore Document Library Object,文書ライブラリー・オブジェクトを復元する
+RSTDLOBRM,Restore Document Library Object using BRMS,BRMSを使用してDLOを復元する
+RSTHAPCY,Restore High Availability Policy,高可用性ポリシーを復元する
+RSTLIB,Restore Library,ライブラリーを復元する
+RSTLIBBRM,Restore Library using BRMS,BRMSを使用してライブラリーを復元する
+RSTLICPGM,Restore Licensed Program,ライセンス・プログラムを復元する
+RSTOBJ,Restore Object,オブジェクトを復元する
+RSTOBJBRM,Restore Object using BRMS,BRMSを使用してオブジェクトを復元する
+RSTPFRCOL,Restore Performance Collection,パフォーマンス収集を復元する
+RSTS36F,Restore S/36 File,S/36ファイルを復元する
+RSTS36LIBM,Restore S/36 Library Members,S/36ライブラリー・メンバーを復元する
+RSTSYSINF,Restore System Information,システム情報を復元する
+RSTUSRPRF,Restore User Profiles,ユーザー・プロファイルを復元する
+RTVASPCPYD,Retrieve ASP Copy Description,ASPコピー記述を検索する
+RTVASPSSN,Retrieve ASP Session,ASPセッションを検索する
+RTVAUTLE,Retrieve Authorization List Entry,権限リスト項目を検索する
+RTVBCKUP,Retrieve Backup Options,バックアップ・オプションを検索する
+RTVBNDSRC,Retrieve Binder Source,バインダー・ソースを検索する
+RTVCFGSRC,Retrieve Configuration Source,構成ソースを検索する
+RTVCFGSTS,Retrieve Configuration Status,構成状況を検索する
+RTVCLDSRC,Retrieve C Locale Description,Cロケール記述を検索する
+RTVCLNUP,Retrieve Cleanup,クリーンアップを検索する
+RTVCLSRC,Retrieve CL Source,CLソースを検索する
+RTVCLU,Retrieve Cluster,クラスターを検索する
+RTVCRG,Retrieve Cluster Resource Group,クラスター・リソース・グループを検索する
+RTVCSMSSN,Retrieve CSM ASP Session,CSM ASPセッションを検索する
+RTVCURDIR,Retrieve Current Directory,現行ディレクトリーを検索する
+RTVDIRINF,Retrieve Directory Information,ディレクトリー情報を検索する
+RTVDLOAUT,Retrieve Document Library Object Authority,DLO権限を検索する
+RTVDLONAM,Retrieve Document Library Object Name,DLO名を検索する
+RTVDOC,Retrieve Document,文書を検索する
+RTVDOCOND,Retrieve Document,文書を検索する
+RTVDSKINF,Retrieve Disk Information,ディスク情報を検索する
+RTVDTAARA,Retrieve Data Area,データ域を検索する
+RTVGRPA,Retrieve Group Attributes,グループ属性を検索する
+RTVIMGCLG,Retrieve Image Catalog,イメージ・カタログを検索する
+RTVJOBA,Retrieve Job Attributes,ジョブ属性を検索する
+RTVJRNE,Retrieve Journal Entry,ジャーナル項目を検索する
+RTVLIBD,Retrieve Library Description,ライブラリー記述を検索する
+RTVMBRD,Retrieve Member Description,メンバー記述を検索する
+RTVMSG,Retrieve Message,メッセージを検索する
+RTVNETA,Retrieve Network Attributes,ネットワーク属性を検索する
+RTVOBJD,Retrieve Object Description,オブジェクト記述を検索する
+RTVPDGPRF,Retrieve Print Descriptor Group Profile,印刷記述子グループ・プロファイルを検索する
+RTVPWRSCDE,Retrieve Power Schedule Entry,電源スケジュール項目を検索する
+RTVQMFORM,Retrieve Query Management Form,QMフォームを検索する
+RTVQMQRY,Retrieve Query Mgmt Query,QM照会を検索する
+RTVS36A,Retrieve S/36 Environment Attributes,S/36環境属性を検索する
+RTVSRVAGT,Retrieve Service Agent,サービス・エージェントを検索する
+RTVSVCCPYD,Retrieve SVC Copy Description,SVCコピー記述を検索する
+RTVSVCSSN,Retrieve SVC Session,SVCセッションを検索する
+RTVSWLSRC,Retrieve Stop Word List Source,ストップワード・リスト・ソースを検索する
+RTVSYSINF,Retrieve System Information,システム情報を検索する
+RTVSYSVAL,Retrieve System Value,システム値を検索する
+RTVTBLSRC,Retrieve Table Source,テーブル・ソースを検索する
+RTVTCPINF,Retrieve TCP/IP Information,TCP/IP情報を検索する
+RTVUSRPRF,Retrieve User Profile,ユーザー・プロファイルを検索する
+RTVUSRPRTI,Retrieve User Print Information,ユーザー印刷情報を検索する
+RTVWSCST,Retrieve Workstation Customizing Object Source,WSカスタマイズ・オブジェクト・ソースを検索する
+RUNBCKUP,Run Backup,バックアップを実行する
+RUNDNSUPD,Run Domain Name System Update,DNS更新を実行する
+RUNJVA,Run Java Program,Javaプログラムを実行する
+RUNLPDA,Run LPDA-2,LPDA-2を実行する
+RUNQRY,Run Query,Queryを実行する
+RUNRMTCMD,Run Remote Command,リモート・コマンドを実行する
+RUNRNDCCMD,Run Remote Name Daemon Control Command,RNDCコマンドを実行する
+RUNSQL,Run SQL,SQLを実行する
+RUNSQLSTM,Run SQL Statement,SQLステートメントを実行する
+RVKACCAUT,Revoke Access Code Authority,アクセス・コード権限を取り消す
+RVKDPRAUT,Revoke DataPropagator Authority,DataPropagator権限を取り消す
+RVKOBJAUT,Revoke Object Authority,オブジェクト権限を取り消す
+RVKPUBAUT,Revoke Public Authority,パブリック権限を取り消す
+RVKUSRPMN,Revoke User Permission,ユーザー許可を取り消す
+RVKWSOAUT,Revoke Workstation Object Authority,ワークステーション・オブジェクト権限を取り消す
+SAV,Save Object,オブジェクトを保管する
+SAVAPARDTA,Save APAR Data,APARデータを保管する
+SAVBRM,Save Object using BRMS,BRMSを使用してオブジェクトを保管する
+SAVCFG,Save Configuration,構成を保管する
+SAVCHGOBJ,Save Changed Objects,変更されたオブジェクトを保管する
+SAVDLO,Save Document Library Object,文書ライブラリー・オブジェクトを保管する
+SAVDLOBRM,Save Document Library Object using BRMS,BRMSを使用してDLOを保管する
+SAVFLRLBRM,Save Folder List using BRMS,BRMSを使用してフォルダー・リストを保管する
+SAVHAPCY,Save High Availability Policy,高可用性ポリシーを保管する
+SAVLIB,Save Library,ライブラリーを保管する
+SAVLIBBRM,Save Library using BRMS,BRMSを使用してライブラリーを保管する
+SAVLICPGM,Save Licensed Program,ライセンス・プログラムを保管する
+SAVMEDIBRM,Save Media Information using BRMS,BRMSを使用して媒体情報を保管する
+SAVOBJ,Save Object,オブジェクトを保管する
+SAVOBJBRM,Save Object using BRMS,BRMSを使用してオブジェクトを保管する
+SAVOBJLBRM,Save Object List using BRMS,BRMSを使用してオブジェクト・リストを保管する
+SAVPFRCOL,Save Performance Collection,パフォーマンス収集を保管する
+SAVRST,Save Restore,保管復元する
+SAVRSTCFG,Save Restore Configuration,構成を保管復元する
+SAVRSTCHG,Save Restore Changed Objects,変更オブジェクトを保管復元する
+SAVRSTDLO,Save Restore Document Library Object,DLOを保管復元する
+SAVRSTLIB,Save Restore Library,ライブラリーを保管復元する
+SAVRSTOBJ,Save Restore Object,オブジェクトを保管復元する
+SAVS36F,Save S/36 File,S/36ファイルを保管する
+SAVS36LIBM,Save S/36 Library Members,S/36ライブラリー・メンバーを保管する
+SAVSAVFBRM,Save Save Files using BRMS,BRMSを使用して保管ファイルを保管する
+SAVSAVFDTA,Save Save File Data,保管ファイル・データを保管する
+SAVSECDTA,Save Security Data,機密保護データを保管する
+SAVSYS,Save System,システムを保管する
+SAVSYSBRM,Save System using BRMS,BRMSを使用してシステムを保管する
+SAVSYSINF,Save System Information,システム情報を保管する
+SBMCMDJS,Submit Console Command,コンソール・コマンドを投入する
+SBMCODEJOB,Submit CODE Batch Job,CODEバッチ・ジョブを投入する
+SBMDBJOB,Submit Data Base Jobs,データベース・ジョブを投入する
+SBMFNCJOB,Submit Finance Job,ファイナンス・ジョブを投入する
+SBMJOB,Submit Job,ジョブを投入する
+SBMJOBJS,Submit Job using Advanced Job Scheduler,AJSを使用してジョブを投入する
+SBMNETJOB,Submit Network Job,ネットワーク・ジョブを投入する
+SBMNWSCMD,Submit Network Server Command,ネットワーク・サーバー・コマンドを投入する
+SBMRMTCMD,Submit Remote Command,リモート・コマンドを投入する
+SETASPGRP,Set Auxiliary Storage Pool Group,ASPグループを設定する
+SETATNPGM,Set Attention Program,アテンション・プログラムを設定する
+SETCSTDTA,Set Customization Data,カスタマイズ・データを設定する
+SETDEPJS,Set Dependent Job using Advanced Job Scheduler,AJSを使用して従属ジョブを設定する
+SETDLJS,Set Data Library using Advanced Job Scheduler,AJSを使用してデータ・ライブラリーを設定する
+SETDNSRVK,Set DNSSEC REVOKE Bit,DNSSEC REVOKEビットを設定する
+SETFCNBRM,Set Function using BRM,BRMを使用して機能を設定する
+SETKBDMAP,Set Keyboard Map,キーボード・マップを設定する
+SETMEDBRM,Set Media Controls using BRMS,BRMSを使用して媒体制御を設定する
+SETMSTKEY,Set Master Key,マスター・キーを設定する
+SETOBJACC,Set Object Access,オブジェクト・アクセスを設定する
+SETPGMINF,Set Program Information,プログラム情報を設定する
+SETRTVBRM,Set Retrieve Controls for BRMS,BRMSの検索制御を設定する
+SETSTPJS,Set Step using Advanced Job Scheduler,AJSを使用してステップを設定する
+SETTAPCGY,Set Tape Category,磁気テープ・カテゴリーを設定する
+SETUPGENV,Set Upgrade Environment,アップグレード環境を設定する
+SETUSRBRM,Set User Usage for BRMS,BRMSのユーザー使用法を設定する
+SETVTMAP,Set VT Keyboard Map,VTキーボード・マップを設定する
+SETVTTBL,Set VT Mapping Tables,VTマッピング・テーブルを設定する
+SIGNOFF,Sign Off,サインオフする
+SLTCMD,Select Command,コマンドを選択する
+SNDARPRQS,Send Address Resolution Protocol Request,ARP要求を送信する
+SNDBRKMSG,Send Break Message,折り込みメッセージを送信する
+SNDDST,Send Distribution,配布を送信する
+SNDDSTJS,Send Distribution using Advanced Job Scheduler,AJSを使用して配布を送信する
+SNDDSTQ,Send Distribution Queue,配布待ち行列を送信する
+SNDF,Send File,ファイルを送信する
+SNDJRNE,Send Journal Entry,ジャーナル項目を送信する
+SNDMSG,Send Message,メッセージを送信する
+SNDNETF,Send Network File,ネットワーク・ファイルを送信する
+SNDNETMSG,Send Network Message,ネットワーク・メッセージを送信する
+SNDNETSPLF,Send Network Spooled File,ネットワーク・スプール・ファイルを送信する
+SNDNGHSOL,Send Neighbor Solicitation,近隣要請を送信する
+SNDPGMMSG,Send Program Message,プログラム・メッセージを送信する
+SNDPTFORD,Send Program Temporary Fix Order,PTFオーダーを送信する
+SNDRCVF,Send/Receive File,ファイルを送受信する
+SNDRPTJS,Send Reports using Advanced Job Scheduler,AJSを使用して報告書を送信する
+SNDRPY,Send Reply,応答を送信する
+SNDSMTPEMM,Send SMTP E-mail Message,SMTP E-mailメッセージを送信する
+SNDSRVRQS,Send Service Request,サービス要求を送信する
+SNDTCPSPLF,Send TCP/IP Spooled File,TCP/IPスプール・ファイルを送信する
+SNDTIEF,Send TIE File,TIEファイルを送信する
+SNDUSRMSG,Send User Message,ユーザー・メッセージを送信する
+STATFS,Display Mounted File System Information,マウント・ファイル・システム情報を表示する
+STRACCWEB,Start Access for Web,Webアクセスを開始する
+STRACCWEB2,Start Access for Web,Webアクセスを開始する (2)
+STRAFPU,Start Advanced Function Printer Utilities,AFPユーティリティーを開始する
+STRAGTSRV,Start Agent Services,エージェント・サービスを開始する
+STRARCBRM,Start Archive using BRMS,BRMSを使用してアーカイブを開始する
+STRASMOND,Start Archived Storage Management,アーカイブ済み記憶域管理を開始する
+STRASPBAL,Start Auxiliary Storage Pool Balance,ASPバランスを開始する
+STRASPSSN,Start ASP Session,ASPセッションを開始する
+STRAUTCOL,Start Authority Collection,権限収集を開始する
+STRBALBRM,Start Media Balancing for BRMS,BRMSの媒体バランシングを開始する
+STRBKUBRM,Start Backup using BRMS,BRMSを使用してバックアップを開始する
+STRCAD,Start Cluster Administrative Domain,クラスター管理ドメインを開始する
+STRCBLDBG,Start COBOL Debug,COBOLデバッグを開始する
+STRCHTSVR,Start Clustered Hash Table Server,クラスター化ハッシュ・テーブル・サーバーを開始する
+STRCLNUP,Start Cleanup,クリーンアップを開始する
+STRCLUNOD,Start Cluster Node,クラスター・ノードを開始する
+STRCMNSVR,Start Communications Server,通信サーバーを開始する
+STRCMNTRC,Start Communications Trace,通信トレースを開始する
+STRCMTCTL,Start Commitment Control,コミットメント制御を開始する
+STRCODE,Start CODE,CODEを開始する
+STRCODECMD,Start CODE Command,CODEコマンドを開始する
+STRCPYSCN,Start Copy Screen,画面コピーを開始する
+STRCRG,Start Cluster Resource Group,クラスター・リソース・グループを開始する
+STRCRGCNR,Start CRG Container,CRGコンテナーを開始する
+STRCSMSSN,Start CSM ASP Session,CSM ASPセッションを開始する
+STRDBG,Start Debug,デバッグを開始する
+STRDBGSVR,Start Debug Server,デバッグ・サーバーを開始する
+STRDBMON,Start Database Monitor,データベース・モニターを開始する
+STRDBRDR,Start Data Base Reader,データベース読み取りプログラムを開始する
+STRDFU,Start Data File Utility,DFUを開始する
+STRDIGQRY,Start DIG Query,DIG照会を開始する
+STRDIRSHD,Start Directory Shadowing,ディレクトリー・シャドーイングを開始する
+STRDNSQRY,Start NSLOOKUP Query,NSLOOKUP照会を開始する
+STRDPRAPY,Start DataPropagator Apply,DataPropagator適用を開始する
+STRDPRCAP,Start DataPropagator Capture,DataPropagatorキャプチャーを開始する
+STRDSKRGZ,Start Disk Reorganization,ディスク再編成を開始する
+STRDSMOND,Start Disk Storage Management,ディスク記憶域管理を開始する
+STRDW,Start Disk Watcher,ディスク監視機能を開始する
+STREDU,Start Education,教育を開始する
+STREML3270,Start 3270 Display Emulation,3270表示装置エミュレーションを開始する
+STREPMENV,Start EPM Environment,EPM環境を開始する
+STREXPBRM,Start Expiration for BRMS,BRMSの満了処理を開始する
+STRFMA,Start Font Management Aid,フォント管理援助を開始する
+STRFNTDWN,Start Font Downloader,フォント・ダウンローダーを開始する
+STRGRPJS,Start Group using Advanced Job Scheduler,AJSを使用してグループを開始する
+STRHOSTQRY,Start HOST Query,HOST照会を開始する
+STRHOSTSVR,Start Host Server,ホスト・サーバーを開始する
+STRIDD,Start IDDU,IDDUを開始する
+STRIMPOND,Start Import,インポートを開始する
+STRIMPSMTP,Start Import for SMTP Users,SMTPユーザーのインポートを開始する
+STRISDB,Start Interactive Source Debugger,対話式ソース・デバッガーを開始する
+STRITF,Start Interactive Terminal Facility,対話式端末機能を実行する
+STRJOBTRC,Start Job Trace,ジョブ・トレースを開始する
+STRJRN,Start Journal,ジャーナル処理を開始する
+STRJRNAP,Start Journal Access Path,ジャーナル・アクセス・パスを開始する
+STRJRNLIB,Start Journal Library,ジャーナル・ライブラリーを開始する
+STRJRNOBJ,Start Journal Object,ジャーナル・オブジェクトを開始する
+STRJRNPF,Start Journal Physical File,ジャーナル物理ファイルを開始する
+STRJS,Start Advanced Job Scheduler,AJSを開始する
+STRJW,Start Job Watcher,ジョブ監視機能を開始する
+STRLOGSVR,Start Job Log Server,ジョブ・ログ・サーバーを開始する
+STRMGRBRM,Start Migration using BRMS,BRMSを使用してマイグレーションを開始する
+STRMNTBRM,Start Maintenance for BRMS,BRMSの保守を開始する
+STRMOD,Start Mode,モードを開始する
+STRMONOND,Start Monitor,モニターを開始する
+STRMSF,Start Mail Server Framework,メール・サーバー・フレームワークを開始する
+STRNETINS,Start Network Install,ネットワーク導入を開始する
+STRNFSSVR,Start Network File System Server,NFSサーバーを開始する
+STROBJCVN,Start Object Conversion,オブジェクト変換を開始する
+STROVLU,Start Overlay Utility,オーバーレイ・ユーティリティーを開始する
+STRPASTHR,Start Pass-Through,パススルーを開始する
+STRPCCMD,Start PC Command,PCコマンドを開始する
+STRPCO,Start PC Organizer,PCオーガナイザーを開始する
+STRPDM,Start Programming Development Manager,PDMを開始する
+STRPEX,Start Performance Explorer,PEXを開始する
+STRPFRCOL,Start Performance Collection,パフォーマンス収集を開始する
+STRPFRG,Start Performance Graphics,パフォーマンス・グラフィックスを開始する
+STRPFRT,Start Performance Tools,パフォーマンス・ツールを開始する
+STRPFRTRC,Start Performance Trace,パフォーマンス・トレースを開始する
+STRPFU,Start Print Format Utility,印刷様式ユーティリティーを開始する
+STRPGMEXP,Start Program Export List,プログラム・エクスポート・リストを開始する
+STRPGMMNU,Start Programmer Menu,プログラマー・メニューを開始する
+STRPGMPRF,Start Program Profiling,プログラム・プロファイル作成を開始する
+STRPJ,Start Prestart Jobs,事前開始ジョブを開始する
+STRPRTEML,Start Printer Emulation,印刷装置エミュレーションを開始する
+STRPRTWTR,Start Printer Writer,印刷装置書き出しプログラムを開始する
+STRQM,Start DB2 UDB Query Manager,DB2 UDB Query Managerを開始する
+STRQMPRC,Start Query Management Proc,QMプロシージャーを開始する
+STRQMQRY,Start Query Management Query,QM照会を開始する
+STRQRY,Start Query,Queryを開始する
+STRQSH,Start QSH,QSHを開始する
+STRQST,Start Question and Answer,Q/Aを開始する
+STRRCYBRM,Start Recovery using BRMS,BRMSを使用して回復を開始する
+STRREXPRC,Start REXX Procedure,REXXプロシージャーを開始する
+STRRMTSPT,Start Remote Support,リモート・サポートを開始する
+STRRMTWTR,Start Remote Writer,リモート書き出しプログラムを開始する
+STRRSESVR,Start Remote Systems Explorer Server,RSEサーバーを開始する
+STRS36,Start S/36 Session,S/36セッションを開始する
+STRS36PRC,Start S/36 Procedure,S/36プロシージャーを開始する
+STRSAVSYNC,Start Save Synchronization,保管同期を開始する
+STRSBS,Start Subsystem,サブシステムを開始する
+STRSBSBRM,Start Subsystems using BRMS,BRMSを使用してサブシステムを開始する
+STRSCHIDX,Start Search Index,検索索引を開始する
+STRSEU,Start Source Entry Utility,SEUを開始する
+STRSPLRCL,Start Spool Reclaim,スプール再利用を開始する
+STRSPTN,Start Support Network,サポート・ネットワークを開始する
+STRSQL,Start SQL Interactive Session,対話式SQLセッションを開始する
+STRSRVAGT,Start Service Agent,サービス・エージェントを開始する
+STRSRVJOB,Start Service Job,サービス・ジョブを開始する
+STRSST,Start System Service Tools,システム保守ツールを開始する
+STRSVCSSN,Start SAN Volume Controller ASP Session,SVC ASPセッションを開始する
+STRTCP,Start TCP/IP,TCP/IPを開始する
+STRTCPFTP,Start TCP/IP File Transfer,TCP/IPファイル転送を開始する
+STRTCPIFC,Start TCP/IP Interface,TCP/IPインターフェースを開始する
+STRTCPSVR,Start TCP/IP Server,TCP/IPサーバーを開始する
+STRTCPTELN,Start TCP/IP TELNET,TCP/IP TELNETを開始する
+STRTFMMGR,Start Transform Manager,変換マネージャーを開始する
+STRTIESSN,Start TIE Session,TIEセッションを開始する
+STRTRC,Start Trace,トレースを開始する
+STRTRKJOBQ,Start Tracking Job Queue,ジョブ待ち行列の追跡を開始する
+STRTRPMGR,Start Trap Manager,トラップ・マネージャーを開始する
+STRVPNCNN,Start VPN Connection,VPN接続を開始する
+STRWCH,Start Watch,監視を開始する
+TELNET,Start TCP/IP TELNET,TCP/IP TELNETを開始する
+TFRBCHJOB,Transfer Batch Job,バッチ・ジョブを転送する
+TFRCTL,Transfer Control,制御権を転送する
+TFRGRPJOB,Transfer to Group Job,グループ・ジョブに転送する
+TFRJOB,Transfer Job,ジョブを転送する
+TFRPASTHR,Transfer Pass-Through,パススルーを転送する
+TFRSECJOB,Transfer Secondary Job,2次ジョブを転送する
+TRACEROUTE,Trace Route of an IP Packet,IPパケットの経路をトレースする
+TRCASPBAL,Trace Auxiliary Storage Pool Balance,ASPバランスをトレースする
+TRCCNN,Trace Connection,接続をトレースする
+TRCCPIC,Trace CPI Communications,CPI通信をトレースする
+TRCICF,Trace Intersystem Communications Function,ICFをトレースする
+TRCINT,Trace Internal,内部をトレースする
+TRCJOB,Trace Job,ジョブをトレースする
+TRCREX,Trace REXX,REXXをトレースする
+TRCTCPAPP,Trace TCP/IP Application,TCP/IPアプリケーションをトレースする
+TRCTCPRTE,Trace TCP/IP Packet Route,TCP/IPパケット経路をトレースする
+TRNCKMKSF,Translate Crytographic Key Management Keystore File,暗号鍵管理キーストア・ファイルを変換する
+UNMOUNT,Remove Mounted File System,マウント・ファイル・システムを除去する
+UPDDOCOND,Update Document in OnDemand,OnDemandの文書を更新する
+UPDDTA,Update Data with Temp Program,一時プログラムでデータを更新する
+UPDPGM,Update Program,プログラムを更新する
+UPDPTFINF,Update PTF Information,PTF情報を更新する
+UPDSRVPGM,Update Service Program,サービス・プログラムを更新する
+UPDSYSINF,Update System Information,システム情報を更新する
+UPDTCPINF,Update TCP/IP Information,TCP/IP情報を更新する
+VFYAPPCCNN,Verify APPC Connection,APPC接続を検査する
+VFYCMN,Verify Communications,通信を検査する
+VFYIMGCLG,Verify Image Catalog,イメージ・カタログを検査する
+VFYLNKLPDA,Verify Link supporting LPDA-2,LPDA-2サポート・リンクを検査する
+VFYMOVBRM,Verify Moves using BRMS,BRMSを使用して移動を検査する
+VFYOPT,Verify Optical,光ディスクを検査する
+VFYPRT,Verify Printer,印刷装置を検査する
+VFYSRVAGT,Verify Service Agent,サービス・エージェントを検査する
+VFYSRVCFG,Verify Service Configuration,サービス構成を検査する
+VFYTAP,Verify Tape,磁気テープを検査する
+VFYTCPCNN,Verify TCP/IP Connection,TCP/IP接続を検査する
+VRYCFG,Vary Configuration,構成をオン/オフに構成変更する
+WAIT,Wait,待機する
+WHEN,When,WHEN
+WRKACTJOB,Work with Active Jobs,活動ジョブを処理する
+WRKALR,Work with Alerts,アラートを処理する
+WRKALRD,Work with Alert Descriptions,アラート記述を処理する
+WRKALRTBL,Work with Alert Table,アラート・テーブルを処理する
+WRKAPPNSTS,Work with APPN Status,APPN状況を処理する
+WRKARMJOB,Work with ARM Jobs,ARMジョブを処理する
+WRKASPBRM,Work with Auxiliary Storage Pool Descriptions,ASP記述を処理する
+WRKASPCPYD,Work with ASP Copy Descriptions,ASPコピー記述を処理する
+WRKASPJOB,Work with Auxiliary Storage Pool Jobs,ASPジョブを処理する
+WRKASPJOBQ,Work with ASP Job Queue,ASPジョブ待ち行列を処理する
+WRKAUT,Work with Authority,権限を処理する
+WRKAUTL,Work with Authorization Lists,権限リストを処理する
+WRKBNDDIR,Work with Binding Directories,バインド・ディレクトリーを処理する
+WRKBNDDIRE,Work with Binding Directory Entries,バインド・ディレクトリー項目を処理する
+WRKCADMRE,Work with Cluster Administrative Domain Managed Resource Entries,クラスター管理ドメイン管理リソース項目を処理する
+WRKCALBRM,Work with Calendars using BRMS,BRMSを使用してカレンダーを処理する
+WRKCFGL,Work with Configuration Lists,構成リストを処理する
+WRKCFGSTS,Work with Configuration Status,構成状況を処理する
+WRKCHTFMT,Work with Chart Formats,チャート様式を処理する
+WRKCLS,Work with Classes,クラスを処理する
+WRKCLSBRM,Work with Classes using BRMS,BRMSを使用してクラスを処理する
+WRKCLU,Work with Cluster,クラスターを処理する
+WRKCMD,Work with Commands,コマンドを処理する
+WRKCMTDFN,Work with Commitment Definitions,コミットメント定義を処理する
+WRKCNNL,Work with Connection Lists,接続リストを処理する
+WRKCNRBRM,Work with Containers using BRMS,BRMSを使用してコンテナーを処理する
+WRKCNTINF,Work with Contact Information,連絡先情報を処理する
+WRKCOSD,Work with COS Descriptions,COS記述を処理する
+WRKCSI,Work with Communications Side Information,通信サイド情報を処理する
+WRKCTLD,Work with Controller Descriptions,コントローラー記述を処理する
+WRKCTLGBRM,Work with Control Groups,制御グループを処理する
+WRKDBFIDD,Work with Database Files using IDDU,IDDUを使用してデータベース・ファイルを処理する
+WRKDDMF,Work with Distributed Data Management Files,DDMファイルを処理する
+WRKDEVBRM,Work with Devices using BRMS,BRMSを使用して装置を処理する
+WRKDEVD,Work with Device Descriptions,装置記述を処理する
+WRKDEVTBL,Work with Device Tables,装置テーブルを処理する
+WRKDIRE,Work with Directory Entries,ディレクトリー項目を処理する
+WRKDIRLOC,Work with Directory Locations,ディレクトリー・ロケーションを処理する
+WRKDIRSHD,Work with Directory Shadow Systems,ディレクトリー・シャドー・システムを処理する
+WRKDOC,Work with Documents,文書を処理する
+WRKDOCLIB,Work with Document Libraries,文書ライブラリーを処理する
+WRKDOCPRTQ,Work with Document Print Queue,文書印刷待ち行列を処理する
+WRKDPCQ,Work with DSNX/PC Queues,DSNX/PC待ち行列を処理する
+WRKDSKSTS,Work with Disk Status,ディスク状況を処理する
+WRKDSTL,Work with Distribution Lists,配布リストを処理する
+WRKDSTQ,Work with Distribution Queue,配布待ち行列を処理する
+WRKDTAARA,Work with Data Areas,データ域を処理する
+WRKDTADCT,Work with Data Dictionaries,データ・ディクショナリーを処理する
+WRKDTADFN,Work with Data Definitions,データ定義を処理する
+WRKDTAQ,Work with Data Queues,データ待ち行列を処理する
+WRKEDTD,Work with Edit Descriptions,編集記述を処理する
+WRKENVVAR,Work with Environment Variables,環境変数を処理する
+WRKF,Work with Files,ファイルを処理する
+WRKFCNARA,Work with Functional Areas,機能域を処理する
+WRKFCNUSG,Work with Function Usage,機能使用法を処理する
+WRKFLR,Work with Folders,フォルダーを処理する
+WRKFLRBRM,Work with Saved Folders,保管済みフォルダーを処理する
+WRKFNTRSC,Work with Font Resources,フォント・リソースを処理する
+WRKFORMDF,Work with Form Definitions,用紙定義を処理する
+WRKFTR,Work with Filters,フィルターを処理する
+WRKFTRACNE,Work with Filter Action Entry,フィルター処置項目を処理する
+WRKFTRSLTE,Work with Filter Selection Entry,フィルター選択項目を処理する
+WRKGSS,Work with Graphics Symbol Sets,グラフィックス記号セットを処理する
+WRKHACFGD,Work with HA Configuration Description,HA構成記述を処理する
+WRKHAPCY,Work with High Availability Policy,高可用性ポリシーを処理する
+WRKHDWPRD,Work with Hardware Products,ハードウェア・プロダクトを処理する
+WRKHDWRSC,Work with Hardware Resources,ハードウェア資源を処理する
+WRKHLDOPTF,Work with Held Optical Files,保留光ディスク・ファイルを処理する
+WRKHSTJS,Work with History using Advanced Job Scheduler,AJSを使用してヒストリーを処理する
+WRKHYSSTS,Work with HyperSwap Status,HyperSwap状況を処理する
+WRKIMGCLG,Work with Image Catalogs,イメージ・カタログを処理する
+WRKIMGCLGE,Work with Image Catalog Entries,イメージ・カタログ項目を処理する
+WRKIPXD,Work with IPX Descriptions,IPX記述を処理する
+WRKJOB,Work with Job,ジョブを処理する
+WRKJOBD,Work with Job Descriptions,ジョブ記述を処理する
+WRKJOBJS,Work with Jobs using Advanced Job Scheduler,AJSを使用してジョブを処理する
+WRKJOBLOG,Work with Job Logs,ジョブ・ログを処理する
+WRKJOBQ,Work with Job Queue,ジョブ待ち行列を処理する
+WRKJOBQD,Work with Job Queue Description,ジョブ待ち行列記述を処理する
+WRKJOBSCDE,Work with Job Schedule Entries,ジョブ・スケジュール項目を処理する
+WRKJRN,Work with Journal,ジャーナルを処理する
+WRKJRNA,Work with Journal Attributes,ジャーナル属性を処理する
+WRKJRNRCV,Work with Journal Receivers,ジャーナル・レシーバーを処理する
+WRKJVMJOB,Work with Java Virtual Machine Jobs,JVMジョブを処理する
+WRKLANADPT,Work with LAN Adapters,LANアダプターを処理する
+WRKLBRM,Work with Lists using BRMS,BRMSを使用してリストを処理する
+WRKLIB,Work with Libraries,ライブラリーを処理する
+WRKLIBPDM,Work with Libraries using Programming Development Manager,PDMを使用してライブラリーを処理する
+WRKLICINF,Work with License Information,ライセンス情報を処理する
+WRKLIND,Work with Line Descriptions,回線記述を処理する
+WRKLNK,Work with Object Links,オブジェクト・リンクを処理する
+WRKLNKBRM,Work with Link Information,リンク情報を処理する
+WRKLOCBRM,Work with Locations using BRMS,BRMSを使用してロケーションを処理する
+WRKMBRPDM,Work with Members using Programming Development Manager,PDMを使用してメンバーを処理する
+WRKMEDBRM,Work with Media using BRMS,BRMSを使用して媒体を処理する
+WRKMEDIBRM,Work with Media Information,媒体情報を処理する
+WRKMGRIBRM,Work with Migration Information,マイグレーション情報を処理する
+WRKMIGSTS,Work with Migration Status,マイグレーション状況を処理する
+WRKMLBBRM,Work with Media Libraries,媒体ライブラリーを処理する
+WRKMLBRSCQ,Work with Media Library Resource Queue,媒体ライブラリー資源待ち行列を処理する
+WRKMLBSTS,Work with Media Library Status,媒体ライブラリー状況を処理する
+WRKMLMBRM,Work with Media Library Media,媒体ライブラリー媒体を処理する
+WRKMNU,Work with Menus,メニューを処理する
+WRKMOD,Work with Modules,モジュールを処理する
+WRKMODD,Work with Mode Descriptions,モード記述を処理する
+WRKMSG,Work with Messages,メッセージを処理する
+WRKMSGD,Work with Message Descriptions,メッセージ記述を処理する
+WRKMSGF,Work with Message Files,メッセージ・ファイルを処理する
+WRKMSGQ,Work with Message Queues,メッセージ待ち行列を処理する
+WRKNAMSMTP,Work with Names for SMTP,SMTP名を処理する
+WRKNCK,Work with Nickname,ニックネームを処理する
+WRKNETF,Work with Network Files,ネットワーク・ファイルを処理する
+WRKNETJOBE,Work with Network Job Entries,ネットワーク・ジョブ項目を処理する
+WRKNETTBLE,Work with Network Table Entry,ネットワーク・テーブル項目を処理する
+WRKNODL,Work with Node List,ノード・リストを処理する
+WRKNODLE,Work with Node List Entries,ノード・リスト項目を処理する
+WRKNTBD,Work with NetBIOS Descriptions,NetBIOS記述を処理する
+WRKNWID,Work with Network Interfaces,ネットワーク・インターフェースを処理する
+WRKNWSCFG,Work with Network Server Configurations,ネットワーク・サーバー構成を処理する
+WRKNWSD,Work with Network Servers,ネットワーク・サーバーを処理する
+WRKNWSENR,Work with Network Server User Enrollment,ネットワーク・サーバー・ユーザー登録を処理する
+WRKNWSSTG,Work with Network Server Storage Spaces,ネットワーク・サーバー記憶スペースを処理する
+WRKNWSSTS,Work with Network Server Status,ネットワーク・サーバー状況を処理する
+WRKOBJ,Work with Objects,オブジェクトを処理する
+WRKOBJBRM,Work with Saved Objects,保管済みオブジェクトを処理する
+WRKOBJLCK,Work with Object Locks,オブジェクト・ロックを処理する
+WRKOBJOWN,Work with Objects by Owner,所有者別にオブジェクトを処理する
+WRKOBJPDM,Work with Objects using Programming Development Manager,PDMを使用してオブジェクトを処理する
+WRKOBJPGP,Work with Objects by Primary Group,1次グループ別にオブジェクトを処理する
+WRKOBJPVT,Work with Objects by Private Authority,プライベート権限別にオブジェクトを処理する
+WRKOPTDIR,Work with Optical Directories,光ディスク・ディレクトリーを処理する
+WRKOPTF,Work with Optical Files,光ディスク・ファイルを処理する
+WRKOPTVOL,Work with Optical Volumes,光ディスク・ボリュームを処理する
+WRKOUTQ,Work with Output Queue,出力待ち行列を処理する
+WRKOUTQD,Work with Output Queue Descriptions,出力待ち行列記述を処理する
+WRKOVL,Work with Overlays,オーバーレイを処理する
+WRKPAGDFN,Work with Page Definitions,ページ定義を処理する
+WRKPAGSEG,Work with Page Segments,ページ・セグメントを処理する
+WRKPCLTBLE,Work with Protocol Table Entry,プロトコル・テーブル項目を処理する
+WRKPCYBRM,Work with Policies using BRMS,BRMSを使用してポリシーを処理する
+WRKPDFMAPE,Work with PDF Map Entries,PDFマップ項目を処理する
+WRKPEXDFN,Work with Performance Explorer Definitions,PEX定義を処理する
+WRKPEXFTR,Work with Performance Explorer Filters,PEXフィルターを処理する
+WRKPFCST,Work with Physical File Constraints,物理ファイル制約を処理する
+WRKPFDL,Work with Physical File DataLinks,物理ファイルDataLinkを処理する
+WRKPGM,Work with Programs,プログラムを処理する
+WRKPGMTBL,Work with Program Tables,プログラム・テーブルを処理する
+WRKPNLGRP,Work with Panel Groups,パネル・グループを処理する
+WRKPRB,Work with Problems,問題を処理する
+WRKPRDINF,Work with Product Information,プロダクト情報を処理する
+WRKPRTSTS,Work with Printing Status,印刷状況を処理する
+WRKPSFCFG,Work with Print Services Facility Configuration,PSF構成を処理する
+WRKPTF,Work with Program Temporary Fix,PTFを処理する
+WRKPTFGRP,Work with Program Temporary Fix Groups,PTFグループを処理する
+WRKPTFORD,Work with Program Temporary Fix Orders,PTFオーダーを処理する
+WRKQMFORM,Work with Query Management Forms,QMフォームを処理する
+WRKQMQRY,Work with Query Management Queries,QM照会を処理する
+WRKQRY,Work With Queries,Queryを処理する
+WRKQST,Work with Questions,質問を処理する
+WRKRCYBRM,Work with Recovery Activities,回復活動を処理する
+WRKRDBDIRE,Work with Relational Database Directory Entry,RDBディレクトリー項目を処理する
+WRKRDR,Work with Readers,読み取りプログラムを処理する
+WRKREGINF,Work with Registration Information,登録情報を処理する
+WRKRMTDFN,Work with Remote Definitions,リモート定義を処理する
+WRKRPYLE,Work with Reply List Entries,応答リスト項目を処理する
+WRKS36,Work with S/36 Configuration,S/36構成を処理する
+WRKS36PGMA,Work with S/36 Program Attributes,S/36プログラム属性を処理する
+WRKS36PRCA,Work with S/36 Procedure Attributes,S/36プロシージャー属性を処理する
+WRKS36SRCA,Work with S/36 Source Attributes,S/36ソース属性を処理する
+WRKSAVFBRM,Work with Save Files,保管ファイルを処理する
+WRKSBMJOB,Work with Submitted Jobs,投入済みジョブを処理する
+WRKSBS,Work with Subsystems,サブシステムを処理する
+WRKSBSD,Work with Subsystem Description,サブシステム記述を処理する
+WRKSBSJOB,Work with Subsystem Jobs,サブシステム・ジョブを処理する
+WRKSCHIDX,Work with Search Indexes,検索索引を処理する
+WRKSCHIDXE,Work with Search Index Entries,検索索引項目を処理する
+WRKSDSTL,Work with SMTP Dist Lists,SMTP配布リストを処理する
+WRKSFWAGR,Work with Software Agreements,ソフトウェア契約を処理する
+WRKSHRPOOL,Work with Shared Storage Pools,共用記憶域プールを処理する
+WRKSMTPEMM,Work with SMTP E-Mail Messages,SMTP E-Mailメッセージを処理する
+WRKSMTPUSR,Work with All SMTP Users,全SMTPユーザーを処理する
+WRKSOC,Work with Sphere of Control,制御範囲を処理する
+WRKSPADCT,Work with Spelling Aid Dictionaries,スペル援助ディクショナリーを処理する
+WRKSPLF,Work with Spooled Files,スプール・ファイルを処理する
+WRKSPLFA,Work with Spooled File Attributes,スプール・ファイル属性を処理する
+WRKSPLFBRM,Work with Saved Spooled Files,保管済みスプール・ファイルを処理する
+WRKSPTPRD,Work with Supported Products,サポート・プロダクトを処理する
+WRKSRVAGT,Work with Service Agent,サービス・エージェントを処理する
+WRKSRVPGM,Work with Service Program,サービス・プログラムを処理する
+WRKSRVPVD,Work with Service Providers,サービス・プロバイダーを処理する
+WRKSRVTBLE,Work with Service Table Entries,サービス・テーブル項目を処理する
+WRKSYSACT,Work with System Activity,システム活動を処理する
+WRKSYSSTS,Work with System Status,システム状況を処理する
+WRKSYSVAL,Work with System Value,システム値を処理する
+WRKTAPCTG,Work with Tape Cartridges,磁気テープ・カートリッジを処理する
+WRKTBL,Work with Tables,テーブルを処理する
+WRKTCPSTS,Work with TCP/IP Network Status,TCP/IPネットワーク状況を処理する
+WRKTIE,Work with TIE,TIEを処理する
+WRKTIMZON,Work with Time Zone Descriptions,時間帯記述を処理する
+WRKTRC,Work with Traces,トレースを処理する
+WRKUSRJOB,Work with User Jobs,ユーザー・ジョブを処理する
+WRKUSRPRF,Work with User Profiles,ユーザー・プロファイルを処理する
+WRKUSRTBL,Work with User Tables,ユーザー・テーブルを処理する
+WRKWCH,Work with Watches,監視を処理する
+WRKWTR,Work with Writers,書き出しプログラムを処理する
